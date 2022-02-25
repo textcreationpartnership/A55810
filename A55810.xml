@@ -1,0 +1,1008 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at St. Maries Spittle, on Wednesday in Easter weeke Aprill 13th, 1642 before the Right Honovrable the Lord Maior, the aldermen and sherifs of this famous city of London / by William Price...</title>
+            <author>Price, William, 1597-1646.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 105 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55810</idno>
+            <idno type="STC">Wing P3402</idno>
+            <idno type="STC">ESTC R18549</idno>
+            <idno type="EEBO-CITATION">12602938</idno>
+            <idno type="OCLC">ocm 12602938</idno>
+            <idno type="VID">64206</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55810)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64206)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 251:E146, no 4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at St. Maries Spittle, on Wednesday in Easter weeke Aprill 13th, 1642 before the Right Honovrable the Lord Maior, the aldermen and sherifs of this famous city of London / by William Price...</title>
+                  <author>Price, William, 1597-1646.</author>
+               </titleStmt>
+               <extent>[5], 46 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nicholas Browne ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Isaiah I, 21-22 --  Sermons.</term>
+               <term>Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64206:1"/>
+            <pb facs="tcp:64206:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at S<hi rend="sup">t</hi>. <hi>MARIES</hi> SPITTLE, On
+<hi>Wedneſday</hi> in EASTER Weeke, Aprill 13<hi rend="sup">th</hi> 1642. Before the RIGHT HONOVRABLE The <hi>Lord</hi> MAIOR, the ALDERMEN, And SHERIFS, of this Famous City of <hi>LONDON.</hi>
+            </p>
+            <p>BY <hi>William Price,</hi> Batchelor of Divinity, and Preacher at
+<hi>Covent-Garden.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's device of Nicholas Bourne</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Nicholas Bourne,</hi> and are to bee ſold at his Shop, at the South Entrance of the Royall Exchange. 1642.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:64206:2"/>
+            <pb facs="tcp:64206:2"/>
+            <p>To the Right HONOURABLE <hi>Sir</hi> RICHARD GVRNEY, Knight and Baronet; And to the Right WORSHIPFVLL The ALDERMEN, and SHERIFFES of this Famous City of <hi>LONDON,</hi> Together with the Right Worſhipfull Company of DRAPERS.</p>
+            <p>WILLIAM PRICE Dedicates and Devotes this plaine and unpoliſh't Sermon, as a Teſtimony of his pe<g ref="char:EOLhyphen"/>culiar reſpect and Chriſtian Love to this City, where he drew his firſt breath.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:64206:3"/>
+            <pb facs="tcp:64206:3"/>
+            <head>To the READER.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>THe Preſſe is oppreſt; almoſt preſt to death in this ſcribling Age: And it is thought that it deſerves to bee ſo, for being ſo fruitfull in venting ſuch ſwarmes of fopperies, and falſhoods. That Fryar was very ſtupid, that ſoberly affirmd that he thought in his Conſcience, whatſoever was Printed is true. Wee are now tempted to ſuſpect the truth of whatſoever is Printed, becauſe Printed. I had not now given my hand againſt my ſelfe, to teſtifie, to deliberate views thoſe in<g ref="char:EOLhyphen"/>firmities, which in the delivery might have paſſed by un<g ref="char:EOLhyphen"/>obſerved, had not the deſire of my ſuperiours, and the importunity of my Friends laid a law upon me. Beſides I would endeavour to reduce the proſtitute Preſſe to her firſt Chaſtity, by imploying it about Divinity: If any critick except that this is but a homely, popular Ser<g ref="char:EOLhyphen"/>mon, clad with the habiliments of meane Language, and ſtuft with familiar obvious matter; I yeeld it, nor can yet find in my heart to repent me of it. Hee whom theſe extraordinary, occaſionall, emergent labours cannot excuſe from his weekely double paines at home,
+<pb facs="tcp:64206:4"/>may well be borne with, though he come not up fully to the expectation, and anſwer not the prepoſſeſt, pre<g ref="char:EOLhyphen"/>judicate humour of every fancifull auditour. <hi>I</hi> can pro<g ref="char:EOLhyphen"/>miſe you here nothing but truth, repreſented in apt ex<g ref="char:EOLhyphen"/>presſions, pertinent to the text, to a promiſcuous Audi<g ref="char:EOLhyphen"/>tory, to the time, and to the times: <hi>I</hi> neither merit, nor court applauſe. <hi>I</hi> contemne contempt. But if my well meaning thoughts purchaſe acceptance, it is more then home-ſpoken truth uſeth to meet with: whatever befal, my Record is on high, and if GOD pleaſe to caſt a ray of Favour on my ſlender performance, and make it ſuccesfull to the gaining or building up but of one Soul, it is the utmoſt height of my ambition, and
+<hi>I</hi> ſhall think my ſelfe more then well rewarded, and apaid. To the be<g ref="char:EOLhyphen"/>nevolent influence of which indulgent GOD, <hi>I</hi> com<g ref="char:EOLhyphen"/>mend thee, who am</p>
+            <closer>
+               <signed>
+                  <hi>Thine in the Lord,</hi> WILLIAM PRICE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:64206:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ISAIAH 1.21.22.</hi>
+                  </bibl>
+                  <p>How is the faithfull City become an Harlot? It was full of judg<g ref="char:EOLhyphen"/>ment; righteouſneſse lodged in it; but now murderers. Thy ſilver is become droſse; thy wine mixt with water.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>Hen wee divide the old Teſtament into Hiſtoricall, Propheticall, and Dogmati<g ref="char:EOLhyphen"/>call bookes; our meaning is not that they are unmixtly ſuch; we onely denominate them from their chiefe ſcope. Otherwiſe we find in the Hiſtoricall bookes much Propheſie and doctrine; in the Propheticall much Hiſtory and doctrine; in the doctrinall much Hiſtory, and Pro<g ref="char:EOLhyphen"/>pheſy. My lot is falne on a part of the Prophetical book of the moſt Evangelicall Prophet. And this Chapter, wherof my Text is a part, is compounded of Hiſtory, Propheſie and doctrine, I have embarqued my ſelfe in the Hiſtoricall paſſages thereof: We may well derive the word Hiſtory <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> becauſe it ſtayes the flux, and current of by-paſt words, and actions, which elſe would have bin buried in the grave of oblivion. We have here an high Aſſize repreſented by the perſpective of reflexive thoughts. The Judge, God, the delin<g ref="char:EOLhyphen"/>quents <hi>Iudah,</hi> and
+<hi>Ieruſalem,</hi> under the Reigne of <hi>
+                  <g ref="char:V">Ʋ</g>zziah, Iotham, Ahaz,</hi> and
+<hi>Hezekiah.</hi> The witneſſes, God, the Prophet, and their owne conſciences, to which there are many appeales up and downe the Chapter, the manner of proceeding is by Bill. They are arraigned, and indited. 1. Of ingratitude, I have nouriſht, and brought up children, and they have rebelled againſt me,
+<note place="margin">
+                  <hi>Verſe</hi> 2.</note> the Oxe knowes &amp;c. 2. Incorrigibleneſſe, why ſhould
+<pb n="2" facs="tcp:64206:5"/>you be ſtriken any more,
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erſe</hi> 5.</note> yee will revolt more, and more. 3. Formality, and hypocriſie in the tranſacti<g ref="char:EOLhyphen"/>on of holy Services,
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rſe</hi> 13. <hi>
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rſse</hi> 1.</note> bring no more vaine oblations. 4. Barbarous cruelty, your hands are full of blood. 5. Apoſtacy and neutrality, or rather utrality (if you will pardon the word) and there fall in the words I have ſelected to taske at this time my tongue, and your attention. How is the faithfull City become an harlot, &amp;c. Here are many magnetique, attractive words that may chaine the attention of the Auditors unto them; reſponſible; and adapted almoſt to all tempers.</p>
+            <p>Art thou ſpiritually minded? here is faithfulneſſe, judgement, and righteouſneſſe to feed thy eare. Art thou covetous? here is ſilver to pleaſe thine eye. Art thou a humourer of thy palate? here is wine to ſatis<g ref="char:EOLhyphen"/>fie thee.</p>
+            <p>My deſire is, that I in my Commentary hereon may an<g ref="char:EOLhyphen"/>ſwer all the language of the Text, That I may be faith<g ref="char:EOLhyphen"/>full in my meſſage, not betraying my truſt; That I may be righteous like a juſt Steward dividing to eve<g ref="char:EOLhyphen"/>ry one of you your portion, That I may diſplay truth afore you in her native colours without adulterate var<g ref="char:EOLhyphen"/>niſh; That I may be rather auxiliary to God in ſaving, then to the Devill in murdering any ſoule here pre<g ref="char:EOLhyphen"/>ſent, by making, the way to Heaven either narrower or broader, then indeed it is; That I may not hang jew<g ref="char:EOLhyphen"/>els of ſounding rather then ſound words at your eares, which, like the Iſraelites, you might ſnatch thence to make an Image to adore. That I may not mix the ſeven times tried ſilver, or the generous ſparkling wine of Gods word with droſſie, watriſh, heartleſſe, humane conceits. That I may ſpeake my heart to you, and not my fancy; and that I may penetrate your ſoules, as well as beat your eares: my comfort is, God requires of
+<pb n="3" facs="tcp:64206:5"/>us Preachers, not our cure, but onely our care.
+<note place="margin">Curam. non curationem. Cathedram in coelis habet, qui corda do<g ref="char:EOLhyphen"/>cet. <hi>Aug. Iudg.</hi> 9.13.</note> His chaire is in heaven, who muſt worke on conſciences. And be the Speaker never ſo wiſe, and his words as goads and nayles, yet they muſt be driven to the head by the great Maſter of Aſſemblies. And ſince my Text ſpeakes of wine, may this wine like that in <hi>Jothams</hi> Parable cheere the heart both of God and man.</p>
+            <p>The Text is conſiderable in the matter, and the forme of it. For the matter, it is an inditement; The priſo<g ref="char:EOLhyphen"/>ners at the Barre are a whole City; the inditement lies againſt them. 1. For Apoſtacy, ſet downe plainly, and ſiguratively. If you demand what they revolted from, the Text names faithfulneſſe, judgement, righte<g ref="char:EOLhyphen"/>ouſneſſe, <hi>ſilver.</hi> If what they degenerated unto; the Text mentions uncleanneſſe, and
+<hi>droſſe. Thefaithfull City is become an harlot;</hi> the Lodge of judgement and righteouſneſſe converted to a Den of murderers. Their ſilver transformed to droſſe; The next Bill filed againſt them is for their neutrality, or unlawfull blending mix<g ref="char:EOLhyphen"/>ture; <hi>Thy wine is mixt with water.</hi> This is the matter of the inditement.</p>
+            <p>The maner of the deliverie is pungent and patheti<g ref="char:EOLhyphen"/>call, how is the faithfull, &amp;c. How?
+<note place="margin">Nota redar<g ref="char:EOLhyphen"/>guentis, ad<g ref="char:EOLhyphen"/>mirantis, de<g ref="char:EOLhyphen"/>plorantis, tan<g ref="char:EOLhyphen"/>quam ad rem prodigioſam, exclamat <hi>Cal<g ref="char:EOLhyphen"/>vin.</hi>
+               </note> It is a note of ad<g ref="char:EOLhyphen"/>miration, of reproofe, of compaſſion. He bleſſes him<g ref="char:EOLhyphen"/>ſelfe, and pitties them. The Prophet breakes forth in<g ref="char:EOLhyphen"/>to an exclamation as at a portentous, and prodigious thing, <hi>How, how is.</hi>
+            </p>
+            <p>This is the plaine draught, theſe the bare lineaments of the Text, I muſt runne them over againe, with co<g ref="char:EOLhyphen"/>lours, taking my riſe from the matter of the Text; And therein from the Perſons at the Barre. A City, a whole City. <hi>How is the City become, &amp;c.</hi>
+            </p>
+            <p>The City.</p>
+            <p>This City is <hi>Ieruſalem,</hi> famous for three things, The
+<pb n="4" facs="tcp:64206:6"/>Royall Law of God;
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> the magnificent Temple of <hi>Salo<g ref="char:EOLhyphen"/>mon,</hi> and the numerous multitude of people. It was Gods reſt,
+<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i ſacrariura <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gia ſedes.</note> and the Kings Seat; the Citizens are this City, for God hath no controverſie with the ſtones and timber. Ill inhabitants make ill places. Sometimes the denomination is from the better part; as that may be called a corn-heape, wherein yet there is more chaffe, then corne; Here the denomination is from the greater part, not a houſe, an ally, a lane, a ſtreet, an in ſhip, but the City is ſaid to be tainted, whence I cannot but collect this ſad truth, that</p>
+            <p>Uſually the moſt goe the worſt way.</p>
+            <p>To the evidencing of which concluſion all periods of time have brought in but too liberall a contribution. There was but one righteous
+<hi>Noah</hi> for a wicked world. One juſt <hi>Lot,</hi> to weigh againſt two uncleane Cities. One faithfull, plaine-dealing <hi>Michaiah</hi> to countervaile 4.10 falſe Prophets. All voted Chriſt to the Croſſe. All with one accord oppreſt <hi>Stephen</hi> with a heape of ſtones (though indeed they unwittingly ſtroke him neerer to Chriſt the Corner-ſtone.)
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing,</hi> 22, 6,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8. <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t.</hi> 27.22,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7.57.
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, 8, 9, 10.
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 34.
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 13.7.</note> All from the leaſt to the greateſt gave heed to <hi>Simon</hi> the Sorcerer; and were bewitched with his incantations. All with one voyce cryed up the puppet
+<hi>Diana.</hi> All Kingdomes, Tongues, and Nations were given up to be intoxicated with the <hi>Circaean</hi> Cup of the Beaſt. In the Church as in the Arke (a type of the Church) the number of the un<g ref="char:EOLhyphen"/>cleane exceed the number of the cleane. As the Philo<g ref="char:EOLhyphen"/>ſopher beſpake the Courtezan, thou haſt more clients then I, becauſe I teach the cragged, thou the flowry way.
+<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>quà can<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſed q<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>à
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. Sen.</note> Men uſe to goe (ſaith <hi>Seneca</hi>) not the way that ſhould be gone, but that way which is moſt gone. A good man is like a drop of water bearing up againſt the rapid current of an Ocean. As <hi>Zacheus</hi> his lowneſſe of
+<pb n="5" facs="tcp:64206:6"/>ſtature, ſo the preſſe kept him from the ſight of Chriſt; ſo beſides our native infirmities, that are the livery of humanity; a crowd of men obſtruct our paſſage to our God.</p>
+            <p>Who that ſets ſeale to this, would judge of truth or godlineſſe by a confluence, a City of men.
+<note place="margin">
+                  <p>
+                     <hi>Application.</hi> Si juſtus es, noli numera<g ref="char:EOLhyphen"/>re; ſed appende <hi>Aug.</hi> in <hi>I<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſal.</hi> 39 S<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mper abun<g ref="char:EOLhyphen"/>dantia contu<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lioſa in ſe ipſa eſt.</p>
+                  <p>
+                     <hi>Tertul.</hi> Multitudo ſo<g ref="char:EOLhyphen"/>ciorum, mon<g ref="char:EOLhyphen"/>ſtratte eſſe hae<g ref="char:EOLhyphen"/>reticum. <hi>Hier.</hi> Examen, vi improbum in illa caſtiges trutina.
+<hi>Per<g ref="char:EOLhyphen"/>ſeus. Exod.</hi> 23.2.</p>
+               </note> If thou beeſt a good man, take not Religion by tale or number, but by weight, ſaith <hi>Aug. Truth is truth though but one, though none entertaine it;</hi> and where many are gathered together profeſſing it, there is the Church, not for the many, but the truths ſake. Nay <hi>Tertullian</hi> makes no ſcruple to affirme, abundance hath purchaſed a contu<g ref="char:EOLhyphen"/>melious name. And <hi>Hierome</hi> doubts not thus to argue againſt <hi>Pelagius, The ſwarme of thy complices ſpeakes thee an heretique.</hi>
+            </p>
+            <p>And for the regulating of our practiſe, let not a multitude of preſidents flatter us in our courſe. Try it not by that ſcale; follow not a multitude to doe evill is divine counſell, <hi>Exod.</hi> 23.2. Let not paucity preju<g ref="char:EOLhyphen"/>dicate holineſſe, nor numbers juſtifie baſeneſſe. Men like ſilly ſheepe, flocke together, they thinke to the paſture, when it may be to the ſlaughter. Had <hi>Noah</hi> con<g ref="char:EOLhyphen"/>formed himſelfe to the moſt, hee had beene ſwallowed in the univerſall Deluge. Had <hi>Lot</hi> lived by the eye, hee had beene ſuffocated with <hi>Sodom</hi> by that hell rain'd from heaven; as <hi>Salvian</hi> cals it. Company in damnation will rather intend, then remit the torments; the more fuell the greater the flame. The deviating of a whole City in my Text, rather aggravates, then extenuates their guilt. It is more malignant, becauſe epidemicall.</p>
+            <p>Afore I diſmiſſe this particular, I muſt mind you, that there is an emphaſis, or rather a brand ſet upon this City, becauſe a City, eſpecially ſuch a City as <hi>Ieruſalem,</hi> Citizens of ſuch a City are the more ſtigma<g ref="char:EOLhyphen"/>tiz'd
+<pb n="6" facs="tcp:64206:7"/>for their delinquencies, becauſe they offend againſt more light, and meanes of grace, then others are bleſt with, to conſolidate them in goodneſſe, and to reduce them when lapſed. The ſinnes of a <hi>Goſhen,</hi> a land of light are of a deeper dye then thoſe of a darke <hi>Egypt.</hi> They are neerer neighbours to the Temple, and the threſholds of the Prophets. The heavenly manna lies round about their Tents. Celeſtiall dew oft diſtils on their fleeces. Government and ſociety might civillize them. And though ſoule diſeaſes may be there more frequent, and catching; yet the ſame places yeeld cures parallell to every malady. And yet wee may obſerve by the many complaints of the Prophets, how Cities doe daily de<g ref="char:EOLhyphen"/>generate. There are many Texts concentricke herein to mine.
+<note place="margin">
+                  <hi>Ezek.</hi> 7 23.</note> The City is full of violence, men affected with the ſinnes of the times were ſuch a rarity, that ſcarce one in a City was to be found; but if any, they were to be marked on their fore-heads for wonders of their age.</p>
+            <p>Againe,
+<note place="margin">
+                  <hi>Ezek</hi> 9.4. <hi>Ezek.</hi> 9.9.</note> the City is full of perverſeneſſe; Cities are the Epitomies, the abſtracts, the ſpleenes of a King dome that commonly ſwell ſo big,
+<note place="margin">Vt in Mare omnin flumi<g ref="char:EOLhyphen"/>na, ſic vitia in Vrbes.
+<hi>Pius</hi> 2. ad <hi>Platin.</hi>
+               </note> that they make the make the other parts pine and languiſh: They are too often the Centers, Sinkes, receptacles of all Irreligi<g ref="char:EOLhyphen"/>ous, Superſtitious, irregular perſons. As all Rivers flow towards the Sea, and there loſe themſelves; ſo all Vices disburthen, and promiſcuouſly blend themſelves in famous populous head, Mother-Cities: and where there is ſo much Negotiation and Commerce,
+<note place="margin">
+                  <hi>Application.</hi> Video civita<g ref="char:EOLhyphen"/>tem, plenam
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urbis, ſed ma<g ref="char:EOLhyphen"/>gis turpiticuid<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ibus, plenam
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ivitiis, ſed
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>agis Vit<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is. <hi>
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>b.</hi> 7. <hi>cap.</hi> 12.</note> there Fraud, injuſtice, Colluſion, will alſo abound.</p>
+            <p>(And may wee not take up over this Metropolis, this famous City,
+<hi>Salvian's</hi> complaint over <hi>Carthage?</hi> I ſee a City fuller of Luſts, then people; of Vices, then Riches; ingulpht in all the Crimes, that ſtain'd <hi>Sodom,
+<pb n="7" facs="tcp:64206:7"/>Gomorrah, Samaria,</hi> or <hi>Jeruſalem,</hi> in my Text: And were it not that God hath ſome Jewels here that ſtand in the Gap, that are our Chariots and Horſemen, our firmeſt Pillars and Wals, were it not for the Antidotes of the Ordinances, that we are yet ennobled with, were it not that God in rich mercy, loves to water, where he hath planted, and to build up, what himſelfe hath founded, were it not that the blood of Chriſt out voyces the cry of our ſins, we ſhould ſinke with our owne weight of ſin, and diſſention, and be reduced to an indigeſted
+<hi>Chaos</hi> and <hi>Babel</hi> of confuſion.</p>
+            <p>Right Honourable, Worſhipfull, and beloved, know that the eyes of the whole Kingdome are fixed upon you; all Townes are but tranſcripts from your Copie,
+<note place="margin">
+                  <hi>Mic.</hi> 1.5.</note> impreſſions from your Preſſe; as it is ſaid in the Pro<g ref="char:EOLhyphen"/>pheſie, <hi>What is the tranſgreſſion of</hi> Jacob, <hi>is it not</hi> Samaria? <hi>What are the high places of</hi> Judah, <hi>are they not</hi> Jeruſalem? other Townes and Cities are but the Daughters, this is the Mother: the Daughters will be ambitious of dreſ<g ref="char:EOLhyphen"/>ſing themſelves in the Mothers Glaſſe; If
+<hi>London</hi> be I<g ref="char:EOLhyphen"/>dolatrous, prophane, Hereticall, Schiſmaticall, ſecure, mutinous, barbarous, proud, luxurious, deceitfull: the Country will be bold to periſh upon your credit, and the blood of their ſoules will be requirable at your hands. You have ſins enough of your owne (God knowes) to anſwer for, you need not load your account with acceſſarineſſe to others ſins: God takes it to heart, that this City that he hath ſo indulgently tendred, (as if he had minded no City in the world but this) ſhould cancell their bonds of obedience, and gratitude to him, and fight againſt him with his owne weapons: imagine you heare him expoſtulating from Heaven, in the Idi<g ref="char:EOLhyphen"/>ome of my Text. <hi>How, is this, this City become an Harlot?</hi>
+            </p>
+            <p>I am fallen upon the Bils filed againſt <hi>Jeruſalem,</hi> I begin with her.</p>
+            <q>
+               <pb n="8" facs="tcp:64206:8"/> Apoſtacie, ſhee is become an Harlot.</q>
+            <p>Every revolt ſuppoſes 2. termes: from what; and to what: here is <hi>Ieruſalems</hi> priſtine, and her preſent ſtate, we are put upon a double diſquiſition, from what, and to what ſhe did back-ſlide: the Text fully, and diſtinctly ſatisfies us in both, ſhe fell from fidelity to adultery, from judgement and righteouſneſſe to murther, from gold to droſſe. Deveſt the words of the Rethorique, and they are a cleere Character of Apoſtaſy.</p>
+            <p>The termes whereof, I muſt have leave to handle, Joyntly, and ſeverally.</p>
+            <p n="1">1. Joyntly, and ſo conſidered, they have a double Aſpect, they looke upon the Prophet that pend them, and on that City againſt which the indictment lyes.</p>
+            <p>In their firſt Aſpect, as they refer to the
+<hi>Amanuenſis,</hi> the Pen-man, the Prophet <hi>Eſay,</hi> they demonſtrate him to be cleere of thoſe 2 Vices, that ill become any Mi<g ref="char:EOLhyphen"/>niſter, or man, Detraction, and Flattery.</p>
+            <p>He is no biting Detractor, <milestone type="tcpmilestone" unit="unspecified" n="1"/> he denyes not
+<hi>Jeruſalems</hi> former worth, he pronounces and records for after A<g ref="char:EOLhyphen"/>ges, her Fidelity, he yeelds her to have bin a Patron, and patterne of Judgement and Righteouſneſſe.</p>
+            <p>I wiſh we were all of <hi>Eſayes</hi> ſtampe,
+<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>phc.</note> then wee would not Eclipſe, and blaſt the reall worth of others, not lye like <hi>Dan</hi> in the path, biting at the foot of every paſ<g ref="char:EOLhyphen"/>ſerby; we would not cry, that Preacher overdoes, this underdoes, that goes too farre, this falls ſhort. Thats too plaine, this too darke. That too tedious, this too briefe. That's ambitious in quorations, this ſhewes too little learning in his Sermons. Wee would not erect our owne fame on the ruine of others. We would not build to darken our neighbours. We would not make our tongues, <hi>quotidiana fornax,</hi> as <hi>Aug.</hi> expreſſes it, <hi>A daily furnace for our Brethrens good names.</hi> To ſuch raſh,
+<pb n="9" facs="tcp:64206:8"/>cenſorious, detracting tongus, let me ſay, that the Geeſe about the Capitoll at <hi>Rome,</hi> were to be beaten, if they cacled; and their Dogs leggs were to be broken if they barked without cauſe. Such puniſhment do detractors merit, if <hi>Cicero</hi> may be Judge. And certainly this ſinne (a ſtaple ſinne in this City) will come home by the guilty. They ſhall heare ill, that can never ſpeake well.
+<note place="margin">Pro Roſe. Amerino.</note> They ſhall drinke the dreggs of that cup of calumny, which they have wrung out to others; as
+<hi>Achyllas</hi> was hurt 'ith eye by the rebound of that ſtone, that he threw at a dead mans skull.</p>
+            <p>Neither (on the other ſide) will the Prophet be a paraſiticall ſmoothing flatterer, but makes bold to dip his penne in gall, giving it liberall leave to checke <hi>Ie<g ref="char:EOLhyphen"/>ruſalem</hi> for drawing a croſſe-blacke line over all her for<g ref="char:EOLhyphen"/>mer goodneſſe by her preſent miſcarriage.</p>
+            <p>If we were all of his temper,
+<note place="margin">
+                  <hi>Ezek.</hi> 13.10, 20</note> we would not ſet up for Upholſters, ſow pillowes under mens elbowes, not daub with untemper'd morter. We would not flatter or hu<g ref="char:EOLhyphen"/>mour either Prince or people. We would not licke a Mothina Gnathonicall ſordid way.
+<note place="margin">
+                  <hi>Levit</hi> 19.17. <hi>Pro.</hi> 29.5.
+<hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ro</hi> 27.5, 6. and 26,
+28. <hi>Iob.</hi> 17.5.</note> To ſuch tame mon<g ref="char:EOLhyphen"/>ſters and man-eaters I muſt have leave to ſay. They hate their brother, They entrap ſoules, they wound &amp; bring ruin in their mouths to the flattered; they are deſtructive to themſelves and their poſterity; the eyes of their chi<g ref="char:EOLhyphen"/>dren ſhall faile, ſaith <hi>Iob.</hi> That they deſerve that puniſh<g ref="char:EOLhyphen"/>ment that
+<hi>Alexander Severus</hi> allotted to <hi>Turinus</hi> a fauning flatterer, to be ſtifled with ſmoake, and the Herald to ſtand by and proclaime, he lived by ſmoake, blinding mens eyes, and by ſmoake let him die. They may think to purchaſe and preſerve love and favour by deifying the undeſerving, and cryſtallizing duſty actions, They may plead, that he that will not flatter, ſhall hang un<g ref="char:EOLhyphen"/>der the wheele: That he that dares tell a great man he is
+<pb n="10" facs="tcp:64206:9"/>not juſt, or a Generall that he is not valiant, or a Lady, ſhe is not beautifull and vertuous, ſhall never be Coun<g ref="char:EOLhyphen"/>ſellor, Commander, or Courtier. But <hi>Salomon</hi> a wiſer man is rather to be beleeved, who bids us take it on his word,
+<note place="margin">
+                  <hi>Prov.</hi> 28 23.</note> that he, that rebukes a man (though for the pre<g ref="char:EOLhyphen"/>ſent he may ſtorme) ſhall afterwards find more favour then he that flatters with the tongue. The Prophet
+<hi>Iſay</hi> in my Text comes roundly up to <hi>Ieruſalem,</hi> gives her her owne, charges her deepely, and home with Apo<g ref="char:EOLhyphen"/>ſtacy; which aſpect of the words on that City offers it ſelfe next to our conſideration.</p>
+            <p>The ſum of which charge I ſhall contrive into this pro<g ref="char:EOLhyphen"/>poſition, that lies like a pearle above ground, That</p>
+            <p>Apoſtacy, back-ſliding, revolt from God, Re<g ref="char:EOLhyphen"/>ligion, profeſſion of holineſſe, to the contrary, eſpe<g ref="char:EOLhyphen"/>cially if it prove nationall and ſpreading, is a ſinne, for which God may juſtly, and will ſurely enter an Action againſt any Land, though it hath beene as the apple of his eye, as the ſignet on his right hand. It would make a Chriſtian ſoule bleed inward, to peruſe Gods paſſionate plea with
+<hi>Ieruſalem</hi> for her Apoſtacy in the Prophecie of <hi>Ieremy,
+<note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r.</hi> 2.2, 5, 9, 10, 1.12, 13.</note> I remember the kindnes of thy youth, the love of thine eſpouſals (like the fondneſs of a new married couple.) Thus ſaith the Lord, what iniquity have your fathers found in me, that they are gone farre from me? I will yet plead with you ſaith the Lord, and with your childrens children will I plead. Paſse over the Iles of Chittim, and ſee; and ſend to Kedar, and conſider diligently, and ſee if there be any ſuch thing. Did ever Nation change their Gods, which yet are no Gods? but my people have changed their glory for that that doth not profite. Be yee aſtoniſht O heavens at this, be deſolate,
+<note place="margin">
+                     <hi>Verſe.</hi> 19.</note> for my people have committed two great evils; they have forſaken me the fountaine of living waters, &amp;c.</hi> Againe, <hi>Thy backſlidings ſhall reprove thee; know therefore,
+<pb n="11" facs="tcp:64206:9"/>and ſee that it is an evill thing, and a bitter,
+<note place="margin">
+                     <hi>Verſe</hi> 21, 22.</note> that thou haſt forſaken the Lord thy God. I had planted thee a noble Vine, how art thou turned to a degenerate plant? Though thou waſh thee with nitre and much Soape,
+<note place="margin">
+                     <hi>Ier.</hi> 5.7.</note> yet this iniquity of thine is marked before me, ſaith the Lord.</hi> And againe, <hi>How ſhall I pardon thee for this? neither will you wonder that God ſhould thus take on; if you weigh with your ſelves,</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> That there can bee nothing more derogatory from, and opprobrious to God, then Apoſtacy,
+<note place="margin">Diabolum Do<g ref="char:EOLhyphen"/>mino praepo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it: comparati<g ref="char:EOLhyphen"/>onem enim vi<g ref="char:EOLhyphen"/>detur egiſſe, ut ditatur pro<g ref="char:EOLhyphen"/>nunciaſſe eſſe eum meliorem cuius
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urſus eſſe ſmalucrit. <hi>Tertul</hi> de paen cap. 5.</note> an Apoſtate prefers the Devill afore God, for hee ſeemes to have compared and weighed them together, and trying both, at length pronounces him to be the bet<g ref="char:EOLhyphen"/>ter, to whom he chuſeth againe to be a vaſſall; ſaith <hi>Tertullian,</hi> he that once ſeemed too reſolve to pleaſe God by repentance, ſtudies by a repentance of his repen<g ref="char:EOLhyphen"/>tance to gratifie the Devill, who loves with his tayle to drawſtars out of the Firmament of Religion Apoſtacie <milestone type="tcpmilestone" unit="unspecified" n="2"/>(thirdly) makes the wounds of Chriſt bleed afreſh:
+<note place="margin">
+                  <hi>Rev.</hi> 12.4. Qui per paeni<g ref="char:EOLhyphen"/>tentiam inſti<g ref="char:EOLhyphen"/>tuerat Domi<g ref="char:EOLhyphen"/>no ſatisfacere, Diabolo per a<g ref="char:EOLhyphen"/>liam paeni<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en<g ref="char:EOLhyphen"/>tiae * paenitenti<g ref="char:EOLhyphen"/>am ſatisfaciet. <hi>Aug.</hi>
+               </note> if now glorified, he were not impaſſible, if he were recep<g ref="char:EOLhyphen"/>tive of ſhame, Apoſtacy would pierce him, and dye his cheekes with a bluſhing Vermillion; Chriſt loſt more honour in the defection of <hi>Judas,</hi> then in <hi>Herods</hi> and
+<hi>Pilates</hi> perſecution. The heathen (ſaith <hi>Salvian</hi>) would thus transfix Chriſt through Chriſtians ſides. They read the Goſpell, and they are unchaſt. <milestone type="tcpmilestone" unit="unspecified" n="3"/> They heare the Apoſtles, and they are Drunke, Luxurious;
+<note place="margin">
+                  <hi>Heb</hi> 6.6.</note> they follow Chriſt, and yet ravin and oppreſſe:
+<note place="margin">Evangelia le<g ref="char:EOLhyphen"/>gunt, &amp; unpu<g ref="char:EOLhyphen"/>dici ſunt; Apo<g ref="char:EOLhyphen"/>ſtolos audiunt &amp; inebriantur, Chriſtum ſe<g ref="char:EOLhyphen"/>quuntur, &amp; rapiunt.
+<hi>Salvi<g ref="char:EOLhyphen"/>an.</hi>
+               </note> what will the uncircumciſed ſay? where are thoſe heavenly raptures you once boaſted of in the ſervice of your God? are thoſe greene paſtures withered, wherein you were fed? thoſe Chriſtall waters dryed up, by which you were led? the heart-blood of an Apoſtate cannot expiate this reproach.</p>
+            <p>And yet to ſee the ſwarmes of renegadoes,
+<note place="margin">
+                  <hi>Application.</hi> 1.</note> revolters at leaſt in part, from their faith, love, profeſſion, and
+<pb n="12" facs="tcp:64206:10"/>practice: many pretended ſons of the Church, who are rather wens, &amp; ſpots on her face, have nibbled at the eſta<g ref="char:EOLhyphen"/>bliſhed, vitall Fundamentall poynts of Religion, caſt<g ref="char:EOLhyphen"/>ing an over-weening looke, backe to the Romiſh <hi>Sodom,</hi> longing after the Garlike, and Onyons of the ſpirituall <hi>Aegypt.</hi> Some change Profeſſions, as oft as <hi>Laban</hi> did his Servants wages. Many remit of their former fervour and zeale in Religion, who once <hi>Iehu</hi> like, did drive fu<g ref="char:EOLhyphen"/>riouſly, and now heavily, like <hi>Pharaohs</hi> Chariots, when the wheeles were taken off: As Pope <hi>Urbane</hi> ſaid of <hi>Bald<g ref="char:EOLhyphen"/>win,</hi> ſometimes Arch-biſhop of <hi>Canterbury,</hi> he was a fervent Monke, a warme Abbot, a luke-warme Biſhop, and a key cold Arch-biſhop: many begin in the Spi<g ref="char:EOLhyphen"/>rit, and end in the fleſh, like <hi>Ephraims</hi> morning dew, fly<g ref="char:EOLhyphen"/>ing before the morning Sun, like a fire of ſtraw; ſoone in, and as ſoone out; like a Land-flood, ſoone up, and ſuddenly downe;
+<note place="margin">Stella cadens, non eſt Stella, cometa fuit.</note> like a Comet, a Blazing Star, gliſte<g ref="char:EOLhyphen"/>ring more then all the fixed Stars in the Firmament, and evaporating in a ſtinke. Time was, when you loved, and encouraged your painfull Paſtors (I plead not for dim-waſting falſe lights, but ſuch as ſpend them<g ref="char:EOLhyphen"/>ſelves to give you light and heat: now many of you are enamoured on illiterate hinds, proficients onely in boldneſſe, therefore cunning Preachers, becauſe they never learnt; therefore famous, becauſe they were never ſo unhappy as to ſee a Colledge: for every body now will be ready to ſet up of our Trade, without ſerving an Apprentice-ſhip; though indeed what need Geeſe be cackling, when there are watchmen enow about the Ca<g ref="char:EOLhyphen"/>pitol? I ciſcountenance none from inſtructing their own Families, but there is a vaſt difference betweene ſtee<g ref="char:EOLhyphen"/>ring a Boat on a River, and a ſhip in the Sea; you plead that God can worke by weake meanes, yes, and God can give you ſounder minds too, but it ſeemes it is not yet his pleaſure: time was that this City was famous,
+<pb n="13" facs="tcp:64206:10"/>for ſevere, ſtrict government, but now it is growne al<g ref="char:EOLhyphen"/>moſt too big, either to be fed, or governed, all is tur<g ref="char:EOLhyphen"/>ned topſeturvie, there is little difference betweene Maſters and ſervants, but that the ſervants are common<g ref="char:EOLhyphen"/>ly the firer, prouder, &amp; ſtouter. I need not be a ſhamed to ſpeake of that, of which you are not aſhamed to be guilty. The word is a true mirror, that will repreſent to you ſuch faces, as you bring to it. I might abound in inſtances of our Apoſtacy, but I have farre to goe, and not much time to ſpend. O remember whence you are fallen, and repent, and doe your firſt works,
+<note place="margin">
+                  <hi>Rev.</hi> 2.5.</note> was the Angels advice to the Church of <hi>Epheſus,</hi> and it ſhall be mine to you,
+<hi>Remember whence you are fallen, you that have beene old Mnaſons, ancient profeſsors,</hi>
+               <note place="margin">
+                  <hi>Acts</hi> 21.16.</note> from what a height of excellency, and ſweetneſſe; to what an abiſſe you have degraded your ſelves, to the ſtate of brute beaſts, ſo <hi>David</hi> termes himſelfe, nay of Devils;
+<note place="margin">Pſal. 73.22. Iohn 6.70.</note> ſuch our Sa<g ref="char:EOLhyphen"/>viour calls <hi>Iudas.</hi> Remember by what ſteps and degrees you deſcended, after how many covenants with God ſtricken and renew'd: after many and large experiments of his mercy. Upon what ſlight motives from bubbly honour, fleeting riches, ſhadowy pleaſures, ſtinking breath of fame you declined: Lay your hearts and lives to the naile, thereby you may collect how farre you are retrograde, as by looking on <hi>Ahaz's</hi> Dyall men might ſee how many degrees the Sunne had gone backward.</p>
+            <p>Then repent that you have repented you of your goodneſſe:
+<milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <note place="margin">Calcate me ſa<g ref="char:EOLhyphen"/>lem inſipidum.</note> As
+<hi>Eccbolius</hi> recollecting himſelfe after his revolt, caſt himſelfe downe at the Church doore, and cryed to the people, kicke me unſavoury ſalt, fit for nothing but the dung-hill. And <hi>Granmer</hi> thruſt that hand in a ſelfe revenge, firſt into the fire, wherewith he had ſubſcribed to Popiſh Articles. <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+            </p>
+            <p>Then doe your firſt works. Returne, returne, O
+<hi>Shu<g ref="char:EOLhyphen"/>lamite,</hi>
+               <pb n="14" facs="tcp:64206:11"/>returne,
+<note place="margin">
+                  <hi>Ier</hi> 3.1,</note> returne, you are graciouſly invited backe. They ſay (ſaith God) if a wife goe from her husband, and become another mans, will hee receive her againe? no, though ſhe returne with blubberd eyes, bedewed cheekes, ſorrowfull aſpect, proſtration, eju<g ref="char:EOLhyphen"/>lations, diſheveled haires, ſorrow-preſt heart: yet, yet returne to me, ſaith the Lord, come and welcome, to thy God.
+<note place="margin">
+                  <hi>Mar.</hi> 10.49.</note> Be of good comfort, he calleth thee; as it is in the Goſpell. It is not boldneſſe to come, it is diſo<g ref="char:EOLhyphen"/>bedience not to come. Saint <hi>Peter</hi> indeed denyed his Maſter, but after confeſſed him. Hee, who denyed him a<g ref="char:EOLhyphen"/>fore a Damſell, confeſt him afore a Councell, like a metled horſe, that after a ſtumble, amends his pace, and gaines way.</p>
+            <p>If yet thou ſtandeſt, <milestone type="tcpmilestone" unit="unspecified" n="4"/> take heed leaſt thou fall, ſtart not backe like a broken bow.
+<note place="margin">1 <hi>Cor.</hi> 10.12. <hi>Phil.</hi> 1.27.
+<hi>Eph.</hi> 4.14. <hi>Heb.</hi> 4.14. <hi>Pro.</hi> 14.14. Nemo fit re<g ref="char:EOLhyphen"/>pente tur<g ref="char:EOLhyphen"/>piſhmus.</note> Plucke not thy hand from the Plow; ſtand faſt, be not as children toſt to and fro with every wind of doctrine. Hold faſt your profeſſion: looke not backe to <hi>Sodom;</hi> remember <hi>Lots</hi> wife: ſhe was metamorphoz'd to a pillar of ſalt, to ſeaſon us with her example. Backſlide not, no not in heart; as <hi>Salomon</hi> ſpeakes, Beware the leaſt, loweſt de<g ref="char:EOLhyphen"/>gree of declenſion. No man precipitantly falls to the worſt at firſt. The Devill is modeſt in his firſt propo<g ref="char:EOLhyphen"/>ſalls, he deſires but to lodge a few ſinnes of infirmity in our ſoules, as <hi>Pompey</hi> his weake wounded Souldiers in a City, who recover'd their ſtrength, and opened the Gates to the whole Army: ſlips prepare for falls, in<g ref="char:EOLhyphen"/>curable conſumptions begin in a yawning oſcitant liſt<g ref="char:EOLhyphen"/>leſneſſe.</p>
+            <p>To this end, that you may perſevere, let me pre<g ref="char:EOLhyphen"/>ſcribe theſe Antidotes or preſervatives.</p>
+            <p>Rootedneſſe,
+<note place="margin">Antidotes.</note> 
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> groundedneſſe in knowledge. That
+<pb n="15" facs="tcp:64206:11"/>ground that had no root beleeved for a while,
+<note place="margin">
+                  <hi>Luke</hi> 8.13.</note> 
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> and in time of temptation fell away.</p>
+            <p>Pitching our faith on God in Chriſt,
+<note place="margin">1 <hi>Pet.</hi> 1.5 Rom. 11.20. <hi>Heb.</hi>
+10.38.</note> we are kept by the power of God through faith, ſaith Saint
+<hi>Peter;</hi> By faith ye ſtand, ſaith S. <hi>Paul.</hi> The juſt ſhall live by faith, as a ſhip in a ſtorme, when others make ſhipwracke of faith, and a good conſcience,
+<note place="margin">
+                  <hi>Eſay.</hi> 22.23. Qui ingen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o fidat, amat nihil aliud certum, quam fiduciam ſuam ferat. <hi>Plin.</hi> 2. <hi>Tacito.</hi>
+               </note> (and thoſe two wrackes goe alwayes together.) A beleever is like <hi>Eliacim,</hi> as a Nayle in a ſure place. The Anker is no ſtay to the ſhip, while it hangs on the ſhip-ſide, it muſt be fixed on ſomewhat firme. God loves to let goe a ſelfe-confi<g ref="char:EOLhyphen"/>dent man. How neare was <hi>Peter</hi> to a fall, when hee re<g ref="char:EOLhyphen"/>ſted on his owne bottome? He that truſts in his owne wit, (ſaith <hi>Pliny</hi>) for my part, let him beare nothing certaine away beſide his owne conſidence.
+<note place="margin">
+                  <hi>Pro</hi> 3.5. <hi>Pro</hi> 28.26.</note> Truſt in the Lord with all thy heart, and leane not to thine owne underſtanding. Hee that truſts in his owne heart is a foole, ſaith
+<hi>Salomon.</hi>
+            </p>
+            <p>Love to the truth, for the truths ſake. <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <note place="margin">2 <hi>Theſ.</hi> 2.9, 10.</note> It is rendred as a reaſon why many are deluded and drawne off, be<g ref="char:EOLhyphen"/>cauſe they receive not the truth in the love of it. There is no truſting of thoſe that love ſcepticall ſpeculations, and victory better then truth.</p>
+            <p>Integrity, ſincerity of heart: <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+               <note place="margin">Triticum non rapit ventus, inanes paleae tempeſtate ja<g ref="char:EOLhyphen"/>ctantur. <hi>Cypri<g ref="char:EOLhyphen"/>an.</hi> 1 <hi>Iohn</hi> 2.19.</note> that which is naturall will hold, but waſh will off. The wind carries not away the wheat, the light chaffe onely is toſt to and fro. They went out from us, ſaith our Saviour, becauſe they were not of us; for had they beene of us, they would not have gone out from us.</p>
+            <p>Living to God, not to our ſelves or others: <milestone type="tcpmilestone" unit="unspecified" n="5"/> if God be our motive, we ſhall not change, for hee is without ſhadow of change. If we levell at worldly ends, we ſhall ebbe and flow as the world doth, which is conſtant onely in unconſtancy; like the Moone, never looking
+<pb n="16" facs="tcp:64206:12"/>upon us two dayes with the ſame face. If plummets move us, we ſhall quickly ceaſe our motion as a jacke, when the weights reach the ground.
+<note place="margin">Tim. 4.10.</note> The love of the world fetched off <hi>Demas.</hi> The world, like <hi>Abſalom,</hi> will ſiltch our hearts from our heavenly King and father. <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+            </p>
+            <p>Growth in grace.
+<note place="margin">
+                  <hi>Pet.</hi> 3.17, 18.</note> Fall not from your owne ſtedfaſt<g ref="char:EOLhyphen"/>neſſe (ſaith <hi>Peter</hi>) and that you may not, grow in grace. Grace is to the ſoule as balaſt to a ſhip, that keeps it upright. A drop may be dryed up, when a ſtreame can<g ref="char:EOLhyphen"/>not. A ſparke may be quickly extinguiſht; a flame not ſo ſoone. If we grow not better, we ſhall grow worſe, like an arrow ſhot upward, if it aſcend not, it deſcends; like a boat againſt a ſtreame, if it goe not foreward, it goes backeward. As they ſay of a Courtier, if he be not on the riſing, he is on the falling hand.</p>
+            <p>Sit downe, <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+               <note place="margin">
+                  <hi>Luke</hi> 14.28.</note> like a wiſe builder, or generall, as the Metaphor is elegantly followed in the Goſpell and count coſts. Forecaſt the worſt, when thou firſt ſalu<g ref="char:EOLhyphen"/>teſt the threſhold of Religion, bethinke thy ſelfe what it will ſtand thee in. Thus Chriſt us'd to prepare thoſe that deſired to follow him, telling them that they might be big with expectation of temporall preferre<g ref="char:EOLhyphen"/>ment,
+<note place="margin">
+                  <hi>Mat.</hi> 8.20. <hi>Eph.</hi> 6.15.</note> but he had not a houſe to put his head in. In this reſpect the Goſpell is call'd the ſhooes of prepa<g ref="char:EOLhyphen"/>ration; becauſe by its warning it carries us dry ſhod, through thicke and thin.</p>
+            <p>This doe.</p>
+            <p>And that you may not revolt, warme your breaſt with theſe incentives.</p>
+            <p>Conſider,
+<note place="margin">Incentives.</note>
+            </p>
+            <p>That your Apoſtacy damps the joy of proficients,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> and retards, and diſcourages the budding zeale of pro<g ref="char:EOLhyphen"/>bationers in Religion. Ye are departed out of the way, and have cauſed many to ſtumble,
+<note place="margin">
+                  <hi>Mal.</hi> 2.8.</note> as it is in the Prophe<g ref="char:EOLhyphen"/>cy.</p>
+            <pb n="17" facs="tcp:64206:12"/>
+            <p>It ſtiffens the ſinew, brazes the face, ſtrengthens the hands, ſteeles the hearts of reſolved offenders. A back<g ref="char:EOLhyphen"/>ſlider, Elephantlike, doth more miſchiefe in his re<g ref="char:EOLhyphen"/>treat in battle, then ever he did good in his onſet-like a candle, if never lighted offends not, but is extinguiſht with a ſtinke.</p>
+            <p>The Devill Jaylour-like, <milestone type="tcpmilestone" unit="unspecified" n="3"/> is more cruell upon a re<g ref="char:EOLhyphen"/>covery, then ever hee was in his firſt ſurprizall, he is more vigilant over an Apoſtate, blocking up all paſſa<g ref="char:EOLhyphen"/>ges, that not a beame of divine grace ſhould through the leaſt crany irradiate on his ſoule; plying him with freſh ſucceſſions of temptations, filling his fancy and conſcience with paroxyſmes and impreſſions of horrour.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> A revolting ſoule is more depraved by the readmiſ<g ref="char:EOLhyphen"/>ſion of the Devill then ever.
+<note place="margin">Corruptio op<g ref="char:EOLhyphen"/>timi eſt peſſi<g ref="char:EOLhyphen"/>ma.</note> The corruption of the beſt is worſt of all. The whiteſt Ivory makes the blackeſt coale. The ſweeteſt wine the ſharpeſt vineger. Water heat and cooled againe becomes colder then ever.</p>
+            <p>Such a ſtate is moſt incurable. Trees twice dead,
+<milestone type="tcpmilestone" unit="unspecified" n="5"/> and pluckt up by the rootes there is no hope of.
+<note place="margin">
+                  <hi>Iude</hi> 12. <hi>Heb.</hi> 6.4, 5,
+6.</note> It is al<g ref="char:EOLhyphen"/>moſt impoſſible that ſuch ſhould be reſtored by repen<g ref="char:EOLhyphen"/>tance.</p>
+            <p>A Bone broken, and ſet, and againe broken is hard<g ref="char:EOLhyphen"/>ly reſet. I ſpeake this not to deterre you from repen<g ref="char:EOLhyphen"/>tance but Apoſtacy.</p>
+            <p>To Apoſtatize, is to looſe all our fore-paſt prayers,
+<milestone type="tcpmilestone" unit="unspecified" n="6"/> faſtings and teares, our doings &amp; ſufferings for Chriſts ſake. It is to climbe mount <hi>Nebo,</hi> and to looke into, and not to enter <hi>Canaan.</hi> To faint in the view of the goale, to ſinke within ken of the Harbour.</p>
+            <p>To ſumme up this point, (which is indeed the ſumme of the Text, and therefore my length in it may be juſtified.</p>
+            <pb n="18" facs="tcp:64206:13"/>
+            <p>Deare Chriſtians, march on valiantly till you finiſh your Chriſtian courſe. Be like your ſelves, Alwayes the ſame,
+<note place="margin">Sempercadem.</note> was Queene
+<hi>Elizabeths</hi> Motto. Chriſt loved the youngeſt Diſciple, becauſe he began ſo ſoone; and the oldeſt, becauſe they held out ſo long. Move toward heaven without turning, as the milch-kine went with the Arke toward
+<hi>Bethſhemeſh</hi> without any diverſion or digreſſion.
+<note place="margin">
+                  <hi>Pſal.</hi> 19.</note> Be unwearyed as
+<hi>Davids</hi> Sun. Stand not ſtill, as <hi>Joſhuahs</hi> Sun, goe not back as <hi>Ahaz's</hi> Sunne.</p>
+            <p>He that ſayes, come unto me, ſaith alſo abide in me.
+<hi>Nature</hi> hath provided breaſts to bring up,
+<note place="margin">
+                  <hi>Mat.</hi> 11.28. <hi>Io.</hi> 15.4.</note> as well as a womb to bring forth. The Lawyers make <hi>Tenendum</hi> as neefull as <hi>Habendum,</hi> to hold as to have. Phyſicians cry out againſt relapſes. O be as tender of that ſparke of Divinity in you, your ſoules, as you are of your ſtates and bodies. When God had created every dayes worke, he ſaid at the end thereof ſtill, it is good; not ſo in particular, of man after his creation; <hi>Gregorie</hi> gives the reaſon. Man was not to be prayſed afore hee were tryed; he was not to be judged by his beginning, but his end.
+<note place="margin">Homo pro<g ref="char:EOLhyphen"/>bandus ante<g ref="char:EOLhyphen"/>quam laudan<g ref="char:EOLhyphen"/>dus.
+<hi>Greg.</hi>
+               </note> Chriſt was <hi>Alpha</hi> for his happy beginning; and
+<hi>Omega,</hi> for his thrice happy end. Conſtancy one<g ref="char:EOLhyphen"/>ly ſhall be crowned. O thou great gift of perſeverance! He that wants thee cannot be ſaved; hee that hath thee cannot be damned. That reward that is not leaſewiſe, for terme of time, but eternall, is reſerved onely for thoſe whoſe fore-heads are marked with the letter <hi>Tau,</hi> the laſt letter in the Hebrew Alphabet, as it is in <hi>Eze<g ref="char:EOLhyphen"/>kiel,</hi>
+               <note place="margin">
+                  <hi>Ezek.</hi> 9.4.</note> alluding to perſeverance.</p>
+            <p>It may be wee may for the preſent encounter with temptation, vaine oppoſition, perſecution here. But yet a little while,
+<note place="margin">
+                  <hi>Heb.</hi> 10.37.</note> and he that ſhall come will come, and will not tarry. Our time is for the brevity compa<g ref="char:EOLhyphen"/>red, ſometimes to a day ſometime to a night, ſome<g ref="char:EOLhyphen"/>time
+<pb n="19" facs="tcp:64206:13"/>to a watch in the night, ſometimes but to an houre, nay, to a moment;
+<note place="margin">
+                  <hi>Iob</hi> 14.6. <hi>Pſal</hi> 30.5.
+<hi>Pſal.</hi> 90 4. <hi>Rev.</hi> 3.10. 2 <hi>Cor.</hi> 4.17. <hi>Gal</hi>
+6.9. 1 <hi>Cor.</hi> 15. ult.</note> therefore be not weary of well-doing, for in due time you ſhall reape, if you faint not. Be ſtedfaſt, immoveable, alwayes abounding in the worke of the Lord, for as much as you know, that your labour ſhall not be in vaine in the Lord. Ne<g ref="char:EOLhyphen"/>ver let it be ſaid of you, it is perpetuated to poſterity, as of <hi>Ieruſalem</hi> in my Text. <hi>How is the faithfull City become an harlot, &amp;c.</hi>
+            </p>
+            <p>I have yet purſued my Text but in the lump, the groſſe: I ſhall now take the termes of this Apoſtacy in pieces, acquainting you from what, and to what <hi>Ieru<g ref="char:EOLhyphen"/>ſalem</hi> fell; exhorting you to the firſt, dehorting you from the latter. But the ſtreights of time will compell me to deale with theſe particulars, as Colmographers doe in their Maps of the world, ſet downe a line for a River, and a ſpot for a whole Country.</p>
+            <p>There are three periods in the Text: I will take them as they lye in order. I may compare each of them to the cloud that led the Iſraelites; light on the one ſide, and darke on the other.</p>
+            <p>In the firſt period, the bright ſide is faithfulneſſe,
+<note place="margin">
+                  <hi>Hebr.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Fides quam credimus. quâ credimus. qua credimur.</note> 
+               <hi>Neemanah, the faithfull City.</hi>
+            </p>
+            <p>It is an uſefull diſtinction of faith into a</p>
+            <p>Faith, which we beleeve. Thus our <hi>Creed</hi> is objective<g ref="char:EOLhyphen"/>ly called our faith, A</p>
+            <p>Faith, by which we beleeve; the habite, the grace of faith enthronized in the ſoule, which is the grace of graces, as <hi>Athens</hi> was call'd the <hi>Greece</hi> of <hi>Greece.</hi> And a</p>
+            <p>Faith, by which we are beleeved, truſted by others, whereof I conceive my Text ſpeakes. We are uſed to call it fidelity, or faithfulneſſe.</p>
+            <p>Which is ſometimes aſcribed to God.
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 1 <hi>Cor.</hi> 10 13.
+<hi>Tit</hi> 2.10.</note> God is faith<g ref="char:EOLhyphen"/>full. Sometimes to man, as in particular to ſervants, who are to ſhew (ſaith Saint <hi>Paul</hi>)
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> all good fidelity.</p>
+            <pb n="20" facs="tcp:64206:14"/>
+            <p>Now, this fidelity is expreſſible towards God, and towards man. And indeed the one ſeconds, and attends the other. Therefore was
+<hi>Ioſeph</hi> faithfull to his Maſter <hi>Potiphar,</hi> becauſe faithfull to his God. <hi>Constantius</hi> the father of <hi>Conſtantine</hi> the Great, would not truſt the faith of any Souldier,
+<note place="margin">
+                  <hi>Cen.</hi> 39.8, 9. 1.</note> that had violated his faith to Chriſt.</p>
+            <p>Fidelity towards God under a threefold relation; as our King; our husband; as our Lord and Maſter. Fi<g ref="char:EOLhyphen"/>delity to God as our King beares the name of homage, fealty, allegiance, and loyalty to him.</p>
+            <p>Fidelity to God as our husband, <milestone type="tcpmilestone" unit="unspecified" n="2"/> is as much as cha<g ref="char:EOLhyphen"/>ſtity, whereby we reſerve our ſelves as ſpotleſſe Spou<g ref="char:EOLhyphen"/>ſes entire to him;
+<note place="margin">
+                  <hi>Epheſ</hi> 5 27. 1 <hi>Tim.</hi>
+3.11.</note> as <hi>Paul</hi> expreſſes it. Who elſewhere alſo tells us, that wives muſt be faithfull in all things.</p>
+            <p>Fidelity to God as our Lord and Maſter is a com<g ref="char:EOLhyphen"/>pound made up of many ingredients,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> Singlenes of heart, oppoſed to eye-ſervice. Zeale for his name, honour and ſervice, diligence and rigorouſneſſe in his buſineſſe, not ſloathfull in buſineſſe;
+<note place="margin">
+                  <hi>Col.</hi> 3.22, 23. <hi>Rem.</hi>
+12.11.</note> fervent in ſpirit, ſerving the Lord, ſaith <hi>Paul.</hi> Carefull cuſtody of thoſe ordi<g ref="char:EOLhyphen"/>nances, which he hath depoſited in our hands; holding faſt the faithfull word;
+<note place="margin">
+                  <hi>Tit.</hi> 1.9.</note> earneſtly contending for the faith once delivered to the Saints,
+<note place="margin">
+                  <hi>Iude</hi> 1.3.</note> whereof they are feoffees in truſt. Preciſely following his directions in his worſhip,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> without will-worſhip; as <hi>Moſes</hi> is ſaid, as a ſervant to be faithfull in all Gods houſe, keeping to his patterne: In a word, improving, and imploying to Gods honour and advantage;
+<note place="margin">
+                  <hi>Heb.</hi> 3.5.</note> not napkinning up, bu<g ref="char:EOLhyphen"/>rying or embezelling thoſe talents of ſtrength, wit, eloquence, morall gifts or graces, like a good and faithfull ſervant,
+<note place="margin">
+                  <hi>Mat.</hi> 25.21.</note> according to that eulogy in the Goſpell.</p>
+            <p>Next fidelity to man in our ſeverall relations, ſtations &amp; ſpheares. Which diſplayes it ſelfe in making good our lawfull promiſes, vows or oaths once paſſed though to our diſadvantage. And in unſwayed uprightneſſe in
+<pb n="21" facs="tcp:64206:14"/>keeping touch in bargains, trafik, co<g ref="char:cmbAbbrStroke">̄</g>merce with all men.
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.
+<hi>Application.</hi>
+               </note> This is termed faithfulnes in that which is another mans.</p>
+            <p>But all this is rather to be wiſhed then expected in the generality of men. <milestone type="tcpmilestone" unit="unspecified" n="1"/> The heathen man complain'd that he had not ſeene a faithfull man many a day. Moſt men (ſaith <hi>Salomon</hi>) will proclaime every one his owne goodneſſe, but a faithfull man who can find?</p>
+            <p>
+               <note place="margin">
+                  <hi>Prov.</hi> 20.6.</note> The Church of
+<hi>Rome</hi> had in the primitive times the precious treaſure of the Goſpell committed by the Apoſtles to her truſt. How ſhe hath diſappointed, and betrayed that truſt appeares by their adulterating, and obſcuring the Goſpell with their corrupt, traditionall gloſſes. By their preferring the vulgar edition, which they confeſſe abounds with hundreds of faults, afore the originall. By advancing the autority of the Church above the Scripture. And many other pranks, which time will not ſuffer me to inſtance in. And what their fidelity is to men-ward,
+<note place="margin">Fides cum hae<g ref="char:EOLhyphen"/>reticis non ſervanda.</note> we may collect from that ma<g ref="char:EOLhyphen"/>xime of theirs; that faith is not to be kept with here<g ref="char:EOLhyphen"/>tiques. And how true they have beene to this tenent, their dealing with
+<hi>John Hus</hi> at <hi>Conſtance</hi> will declare, whom they there burnt to death, notwithſtanding the publicke faith paſſed by the Emperour for his ſafe con<g ref="char:EOLhyphen"/>duct. And it is recorded to the laſting infamy of the Romiſh faith, the Chriſtians League, confirmed by oath with <hi>Amurath</hi> the Grand Signiour of the Turkes broken by <hi>Vladiſlaus</hi> at the perſwaſion of <hi>Iulian</hi> the Cardinall.
+<note place="margin">Tur<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Hiſtor.</note> Upon which breach <hi>Amurath</hi> in a battle with the Chriſtians, ſeeing all goe againſt him, and be<g ref="char:EOLhyphen"/>holding the croſſe in the diſplayed Enſignes of the Chriſtians, pluckt the writing out of his boſome, wherein the late League was comprized; and holding it up in his hand with his eyes caſt up to heaven, ſayd, Behold, thou crucified Chriſt, this is the League thy Chriſtians in thy name made with me, which they have
+<pb n="22" facs="tcp:64206:15"/>without cauſe violated. Now if thou be a God (as they ſay thou art, and as we dreame) revenge the wrong now done unto thy name and me, and ſhew thy power upon thy perjur'd people, who in their deeds deny thee their God. After which ſaying, victory inclined to his ſide. But to looke homeward.</p>
+            <p>Though <hi>Rome</hi> be unfaithfull, yet all unfaithfulneſſe is not at <hi>Rome.</hi> There is a vow, a promiſe we all made by our ſureties in Baptiſme to our God. We have re<g ref="char:EOLhyphen"/>peated, and ratified that vow, as oft as we have admini<g ref="char:EOLhyphen"/>ſtred, and received the Sacrament of the Lords Supper; beſides, under the ſcourge, the gout, the ſtone, the ſtran<g ref="char:EOLhyphen"/>gury, upon our beds of languiſhment we have renew'd, and redoubled our vowes. But we have infringed, diſ<g ref="char:EOLhyphen"/>ſolved, 'crackt all thoſe ties, obligations, engagements; as <hi>Sampſon</hi> did his cords, like ſo many twined threads. Our promiſes ebbe into emptineſſe, though we ſhould reckon them in the inventory of our eſtate; not onely what others make to us, but what we to others.</p>
+            <p>We promiſe liberally as <hi>Saul</hi> to his Courtiers.
+<note place="margin">1 <hi>Sam.</hi> 22.7. <hi>Numb.</hi> 22.17. Xenophon.</note> As <hi>Balak</hi> to <hi>Balaam;</hi> As <hi>Croeſus</hi> to
+<hi>Anacharſis;</hi> As <hi>Cyrus</hi> to his Souldiers. But performe ſlenderly: As <hi>Andrew</hi> the Hungarian King promiſed to goe to the holy warres (as they called them) and went with his Forces, and ba<g ref="char:EOLhyphen"/>thed himſelfe at <hi>Ieruſalem,</hi> as one diſcharged of his pro<g ref="char:EOLhyphen"/>miſe, and returned backe againe. And our covenants, and agreements with men, though ſubſcribed, and ſea<g ref="char:EOLhyphen"/>led by us, are as brittle as the glaſſes we drinke in. No bounds will hold us.
+<note place="margin">Graeca fides.</note> Wee rob the Grecians of their Proverb, and owne it our ſelves. For ſome perſons among us to ſay they will doe this, or that, is as much, as if they had ſworne, they would not doe it. Un<g ref="char:EOLhyphen"/>leſſe it be when we embarque our ſelves in unwarranta<g ref="char:EOLhyphen"/>ble actions; and then the Sunne may ſooner be thruſt out of his ſpheare, then we diverted from our adaman<g ref="char:EOLhyphen"/>tine
+<pb n="23" facs="tcp:64206:15"/>reſolutions. <hi>Attilius Regulus</hi> a heathen will judge us, who choſe rather at Carthage to ſuffer the moſt ex<g ref="char:EOLhyphen"/>quiſite tortures, then to be branded with perfidious un<g ref="char:EOLhyphen"/>faithfulneſſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Take to heart your former guilt in this kind. And now thinke it the moſt glorious ſtile, that can ſticke upon you, guild, and honour you, to be intituled a faithfull City.</p>
+            <p>If any of the Honourable Aſſembly of Parliament be preſent, may hee be pleaſed to remember, that hee utters not his owne words; he is the mouth of a Coun<g ref="char:EOLhyphen"/>trie, betruſted by thouſands with important affaires, and that it will be his honour; and happineſſe, to be faithfull. And you Right Honourable, that preſide in this famous City; conſider that the Sword of Juſtice is committed to your hands, to hew downe irrefraga<g ref="char:EOLhyphen"/>ble, incurable offenders, and to countenance Religion,
+<note place="margin">
+                  <hi>Deut.</hi> 1.17.</note> and Juſtice; you are but betruſted, <hi>The judgment is Gods;</hi> it will be your honour, and ſecurity to be faith<g ref="char:EOLhyphen"/>full. You that are the mouth of the people to God in prayer, and the mouth of God to the people in prea<g ref="char:EOLhyphen"/>ching; bethinke your ſelves, that you are but Stewards appointed to divide to every of Gods houſhould his portion in due ſeaſon,
+<note place="margin">1 <hi>Cor.</hi> 4.2.</note> Now <hi>it is required of a Steward that he be found faithfull,</hi> ſaith Saint
+<hi>Paul.</hi> Put not your ſpirituall patients bones halfe in joynt;
+<note place="margin">
+                  <hi>Ier.</hi> 6.14.</note> 
+               <hi>heale not the daughters of Gods people ſlightly.</hi> It is Gods expreſſion. Study not rather to be <hi>Placentini</hi> then Veronenſes. Schollers reach my meaning; You are betruſted with precious ſoules, the meaneſt whereof out-weighs the minerals of the Weſt-Indies, and the perfumes of the Eaſt, Be faithfull.</p>
+            <p>None is of ſo inferiour an alloy, in this congrega<g ref="char:EOLhyphen"/>tion, whom his God, hath not burthened and honou<g ref="char:EOLhyphen"/>red,
+<pb n="24" facs="tcp:64206:16"/>with ſome truſt or other; ſome of you are feoffees in truſt; ſome executors, adminiſtrators; be faithfull: let the ſums of money in your hands, run cleare in their native proper current, which by them that betru<g ref="char:EOLhyphen"/>ſted you, they were deſign'd for, let not the leaſt rivolet be drayned another way.</p>
+            <p>Some of you have ſervants, and children, they are not yours alone, God hath betruſted you with them; conſe<g ref="char:EOLhyphen"/>crate them to him by ſtrict education, and government <hi>Elies</hi> over-indulgence to his ſons, proved the loſſe of the Prieſt-hood to his houſe.
+<note place="margin">1 <hi>Sam</hi> 3.13. 1 <hi>Sam.</hi> 13.5.
+<hi>Suſtin.</hi>
+               </note> And <hi>Samuels</hi> fondneſſe occa<g ref="char:EOLhyphen"/>ſioned the change of the civill government: and <hi>Artax<g ref="char:EOLhyphen"/>erxes</hi> was ſo unhappy, as not to have one good child a<g ref="char:EOLhyphen"/>mong fifty, therefore you have need to be faithfull.</p>
+            <p>All of you (though in a different degree) are bleſt with ſome talents, qualified with ſome endowments or other, whether they be ſupernaturall graces, or natural diſpoſitions, as a golden wit, a quick fancy, a marble memory, an acute underſtanding, a profound iudgment, a flowing melifluous expreſſion of your minds, or whe<g ref="char:EOLhyphen"/>ther they be intellectuall habits, that (by vertue of edu<g ref="char:EOLhyphen"/>cation, induſtry, art, obſervation, experience) make you linguiſts, diſputants, Orators, Lawyers, Phyſiti<g ref="char:EOLhyphen"/>ans, Stateſmen, Artizans. Or whether they be the goods of the body,
+<note place="margin">Bo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a corporis, bona fort<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nae <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t creſcuntdo<g ref="char:EOLhyphen"/>na creſcuntra<g ref="char:EOLhyphen"/>tiones done<g ref="char:EOLhyphen"/>rum. <hi>Grog.</hi>
+               </note> as ſym netry proportion, eucracy, health, beauty, ſtrength, or adventitious Goods; as extraction from a noble Stock, honour, riches, reputation, as your talents encreaſe, ſo doe your accounts; be faithfull.</p>
+            <p>Your faithfulneſſe juſtifies your faith afore men, as your Faith juſtifies your perſons afore GOD: Fi<g ref="char:EOLhyphen"/>delity ſets a grace and gloſſe upon Chriſtianity, it is the ſouls Harmony and peace; like the contemperation of the elements, in a naturall body, like the aeviternall, unclaſhing ſway, of the Orbs in the heavens. Fidelity
+<pb n="25" facs="tcp:64206:16"/>is the ſilken ſtring that runs through the Pearle-chaine of all vertues, and duties. It is the Ecliptique line under which reaſon and Religion moves, without deviation: <hi>Be faithfull unto the Death, &amp; I will give thee a Crown of Life,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 2.10.</note> ſaith Chriſt to
+<hi>Smyrna.</hi> What is ſweeter then life? what more glorious then a Growne? what freer then guift? <hi>Who is a faithfull Steward; whom his Lord ſhall make ruler o<g ref="char:EOLhyphen"/>ver his Houſehold, to give them their meat in due ſeaſon?
+<note place="margin">
+                     <hi>Lu.</hi> 12.42, 43.</note> blest is that Servant whom his Lord, when he comes, ſhall find ſo doing.</hi> His Lord ſhall ſay to him, at that great audit-day, <hi>Well done thou good and faithfull Servant,
+<note place="margin">
+                     <hi>Mat</hi> 25.21.22.23.</note> thou haſt beene faith<g ref="char:EOLhyphen"/>full over a few things; I will make thee ruler ever many things: enter into thy Maſters joy.</hi> Enter thou into it, it cannot en<g ref="char:EOLhyphen"/>ter into thee: as if a man ſhould caſt himſelf into a fulſea of Felicity be faithfull then, but be faithful to the death, (as it was before quoted) even to the death, that you may not incur the guilt and cenſure of the City in my Text, <hi>How is the faithfull City become an Harlot?</hi> Zonah,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> which is the darke ſide of the cloud, and next awaits its handling.</p>
+            <p>Not to inſiſt on their fancy, that conceive that
+<hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> (as too many Townes in this Kingdom) was now turned into Innes, Tavernes, and Alehouſes, becauſe the name Harlot is ſometimes in Scripture given to Victu<g ref="char:EOLhyphen"/>allers, ſuch as <hi>Rahab</hi> was.
+<note place="margin">
+                  <hi>Ioſh.</hi> 2.1.</note> There are two kinds of Har<g ref="char:EOLhyphen"/>lots.</p>
+            <p n="1">1.
+<note place="margin">Lyra.</note> Thoſe that proſtitute their bodies to carnall un<g ref="char:EOLhyphen"/>cleanneſſe: of whom <hi>Lyra,</hi> and ſome others would under<g ref="char:EOLhyphen"/>ſtand the Text. It cannot be denyed, but this was one of
+<hi>Jeruſalems</hi> vices.
+<note place="margin">
+                  <hi>Ier.</hi> 5.7.</note> 
+               <hi>They aſsembled by troopes in Harlots hou<g ref="char:EOLhyphen"/>ſes.</hi> And it were an houre well ſpent, to whet my ſtile a<g ref="char:EOLhyphen"/>gainſt theſe brutiſh Monſters: they are linked in com<g ref="char:EOLhyphen"/>pariſon with Dogs. <hi>Thou ſhalt not bring the hire of a Whore,
+<note place="margin">
+                     <hi>Deut.</hi> 23.18.</note> nor the price of a Dog, into the Houſe of God.</hi> 1. Harlots, and
+<pb n="26" facs="tcp:64206:17"/>Whore mongers ſin againſt their fame, their ſubſtance, eſtate.
+<note place="margin">
+                  <hi>Pro</hi> 6.33. <hi>Pro.</hi> 29.3.
+<hi>Pro.</hi> 6.28. <hi>Iob.</hi> 31.12. 1 <hi>Cor</hi> 6.18. <hi>Pro.</hi>
+6.32. <hi>Gen.</hi> 39.9. <hi>Rom.</hi> 12.1.</note> 
+               <hi>A Whore will bring a man to a morſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll of bread;</hi> againſt their children &amp; family. <hi>It roots out all their encreaſe</hi> againſt their bodies, enervating, and emaſculating them; againſt their owne ſoules, ſtabbing and polluting them againſt God, to whom we ought to offer our bodies an holy Sacrifice; againſt Chriſt, whoſe Members we are, I dare ſcarce redeliver thoſe words of S.
+<hi>Paul;</hi>
+               <note place="margin">1 <hi>Cor.</hi> 6 15. 1 <hi>Cor.</hi>
+6.19.</note> againſt the holy Ghoſt, whoſe temples our bodies are; againſt our neigh<g ref="char:EOLhyphen"/>bour, for this dart of uncleanneſſe ſmites through two hearts at once.
+<note place="margin">
+                  <hi>Levit.</hi> 18.28.</note> Againſt the Church, filling that (to their power) with an unholy ſeed; Againſt the Land, deſiling that.
+<note place="margin">
+                  <hi>Hoſ.</hi> 4.10. <hi>Epheſ.</hi> 4.19.
+<hi>Hoſ.</hi> 4.11.</note> Againſt all man-kind, by robbing it of the bleſſing of a due increaſe. Briefly, this ſin damps the light of reaſon, It makes the ſoule as a City without wals, ſurprizable by the moſt horrid ſins: It takes away the heart, and makes it liſtleſſe to any good and in ſome reſpects it exceedes Idolatry,
+<note place="margin">1 <hi>Cor.</hi> 7.14. <hi>Deut</hi> 23.2.</note> becauſe an Idolaters child might enter the congregation, but a baſtard might not enter to the tenth generation. And becauſe God hath puniſht Idolatry with a permiſſion of adultery; giving ſuch over to unnaturall luſts;
+<note place="margin">
+                  <hi>Rom.</hi> 1.24.</note> as now adayes, when wo<g ref="char:EOLhyphen"/>men turne Roman Catholikes, they turne often Catho<g ref="char:EOLhyphen"/>like, that is to ſay, univerſall women in body too. Now every puniſhment muſt ſurpaſſe that, whereof it is a puniſhment; otherwiſe it will, as an allective rather in<g ref="char:EOLhyphen"/>vite, then deterre.</p>
+            <p>In this ſenſe the Romaniſts may juſtly in imitation of my Text ſay,<note place="margin">Applica.</note> how is this City of <hi>Rome</hi> become an Harlot? One of their owne writers ſpeakes of the refor<g ref="char:EOLhyphen"/>mation that a Pope wrought in their City: when hee entred the Popedome there were diverſe Stews in <hi>Rome;</hi>
+               <note place="margin">Tota Roma
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>upanar.</note> when he dyed he left but one, all <hi>Rome</hi> was converted to one Stews <hi>Cornelius Mus</hi> Biſhop of <hi>Bitonto,</hi> in a Sermon
+<pb n="27" facs="tcp:64206:17"/>of his at S. <hi>Laurences</hi> in
+<hi>Rome,</hi> cryed, ſeeſt thou not, wretched City, how thou art become a Stews of Leche<g ref="char:EOLhyphen"/>ry? It was one of their 100. grievances, that Prieſts,
+<note place="margin">Centum gra<g ref="char:EOLhyphen"/>vamina.</note> that had no mind to keepe Concubines, were yet for<g ref="char:EOLhyphen"/>ced to pay for a licence for them, becauſe they might keepe them, if they would; It was not the Churches fault they did not.</p>
+            <p>And a Prieſt among them had loſt his living, becauſe it was bruited, that he had a wife, and by that wife a child; but that he pleaded, that ſhe was another mans wife, and ſo ſaved his Benefice. Nay their Popes, the heads of their Church are infamous for their Concu<g ref="char:EOLhyphen"/>bines.</p>
+            <p>
+               <hi>Alexander</hi> the ſixth had his <hi>Lucretia. Gregory</hi> the ſe<g ref="char:EOLhyphen"/>venth his <hi>Matilda. Leo</hi> the tenth his <hi>Magdalena. Paul</hi> the third his <hi>Conſtantia. Sergius</hi> his <hi>Marozia.</hi> Nay, many of their Popes have beene <hi>Sodomites,</hi> and had their Ga<g ref="char:EOLhyphen"/>nymedes.
+<hi>Sixtus</hi> the fourth his <hi>Rierius. Iulius</hi> the ſecond his
+<hi>Germanus. Iulius</hi> the third his <hi>Innocentius de monte. Leo</hi> the tenth his <hi>Hippolitus.</hi> According to that of <hi>Man<g ref="char:EOLhyphen"/>tuan.</hi>
+            </p>
+            <q>
+               <l>Sanctus ager ſcurris venerabilis ara Cynaedis,</l>
+               <l>Servit, honorandae Diuûm Ganymedibus aedes.</l>
+            </q>
+            <p>I will not Engliſh it.</p>
+            <p>So that well might the Duke of <hi>Urbins</hi> paynter re<g ref="char:EOLhyphen"/>turne that anſwer to the Cardinall, that asked him, why he painted S.
+<hi>Peter,</hi> and S. <hi>Paul</hi> ſo high coloured, when they were meagre and pale with preaching, and faſting; he anſwer'd, that they bluſht to ſee, how thoſe, that ſtiled themſelves the Apoſtles ſucceſſours, degenerated from their pious examples.</p>
+            <p>Neither can we ſay, that our gardens are without theſe ranke weeds. This City grones under the frequen<g ref="char:EOLhyphen"/>cy, and impudence of Harlots. The Sun oft riſes in a
+<pb n="28" facs="tcp:64206:18"/>cloud, and bluſhes ſetting in a kind of remeditation of what obſcenities he hath beene a ſpectator in the day. It is a mercy even to extaſy, that the earth ſinkes not under her uncleane load. I grieve to tell you, how many hogs among you rake in any dunghill; how many kites ſtoop at any carrion. Any Strumpet is their heaven. As it was ſaid of one of the <hi>Caeſars,</hi>
+               <note place="margin">Om<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>m mu<g ref="char:EOLhyphen"/>li<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>umvir
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> he was a man for all wo<g ref="char:EOLhyphen"/>men. He corrupted <hi>Sulpitius</hi> his <hi>Poſthumia; Gabinius</hi> his
+<hi>Lollia; Craſſus</hi> his <hi>Tertullia, Pompeſs Mutia,</hi> and many other.</p>
+            <p>To the guilty of both Sexes, of what ranke, or qua<g ref="char:EOLhyphen"/>lity ſoever you are, let me ſay, that, though ſecrecy, potency, or place may exempt you from humane tri<g ref="char:EOLhyphen"/>bunals,
+<note place="margin">
+                  <hi>Heb.</hi> 13.4.</note> yet, if S.
+<hi>Paul</hi> have any truth in him, <hi>Whore<g ref="char:EOLhyphen"/>mongers, and adulterers God will judge.</hi>
+            </p>
+            <p n="2">2. But (under favour) there are another kind of Har<g ref="char:EOLhyphen"/>lots more properly here intended. They are thoſe that proſtitute their ſoules.
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> And that 1. either to ſinne, the worke of the Divell. For inſtance, we may call lying, an adultery of the tongue; becauſe God married the tongue and the heart together; and therefore ſuch words as the tongue utters without the conſent of the heart, are borne in adultery.</p>
+            <p>Or to the world; <milestone type="tcpmilestone" unit="unspecified" n="2"/> the things thereof, the creatures, even the works of God.
+<note place="margin">Amas quae ſe<g ref="char:EOLhyphen"/>cit, &amp; non cunequi fecit? adulteres. <hi>Aug.</hi> Suff<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it mihi annulus, ſaci<g ref="char:EOLhyphen"/>em videre non deſidero.
+<hi>Bern.</hi>
+               </note> For when we preferre them afore our Maker, or love God onely for their ſakes, it is but a harlotry love. As if a Bride ſhould ſay, give me my Bride-groomes goods, I care not for his perſon; His ring ſuffices me, I deſire not to ſee his face. But theſe Harlots I alſo paſſe by, and deſcend to a Third kind, <milestone type="tcpmilestone" unit="unspecified" n="3"/> that proſtitute themſelves to Idols, the works of their owne hands. Which interpretation ſeemes to fall in moſt fitly with the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the ra<g ref="char:EOLhyphen"/>tionality, the ſcope, the contexture of the Text. For
+<pb n="29" facs="tcp:64206:18"/>if a faithfull City be that, which in an entire, ortho<g ref="char:EOLhyphen"/>doxe worſhip, cleaves wholy, and ſoly to her God, and husband; then a harlotry City, muſt (by the rule of contraries) be that which in a falſe, heterodox, ſu<g ref="char:EOLhyphen"/>perſtitious worſhip goes a whoring from her God, and husband, after dunghilly puppets, ſenſeleſſe idols.
+<note place="margin">A Lapide Ad idola quaſi ad adulteros.</note>
+               <hi>A La<g ref="char:EOLhyphen"/>pide</hi> a Papiſt, ſo underſtands the words, turning to idols (ſaith he) as to her adulterers.</p>
+            <p>And this is the ordinary Scripture idiome; there are an hundred Texts running parallell with this, according to this acception of the word, Harlot. Beſides, the hi<g ref="char:EOLhyphen"/>ſtories of the raignes of thoſe Princes,
+<hi>Vzziah, Iotham,</hi> and <hi>Ahaz</hi> (under whom <hi>Eſay</hi> wrote this Propheſie) doe teſtifie, that the people were much devoted to Images, to ſtrange Altars, and fire, to high places. Nay, that they arrived to that height of ſuperſtition, and cruelty, that ſome of them ſacrificed their ſonnes, and daugh<g ref="char:EOLhyphen"/>ters in the fire to the honour of <hi>Moloch.</hi> Thus was the faithfull City become an harlot.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> I might from the words thus expounded obſerve That it is an high aggravation of nationall ſinnes to offend againſt the contrary examples of Religious pre<g ref="char:EOLhyphen"/>deceſſors. For an Owle to come out of a Nightingales neſt. It will not advantage, (but judge us rather,)
+<note place="margin">
+                  <hi>Mat.</hi> 3.9.</note> to plead with the Phariſees, <hi>We have Abraham to our Father,</hi> when his conditions, and ours are ſo diſproportiona<g ref="char:EOLhyphen"/>ble. They are <hi>Abrahams</hi> children, that doe the workes of <hi>Abraham.</hi>
+               <note place="margin">Malo pater ti<g ref="char:EOLhyphen"/>bi ſit <hi>Therſues,</hi> du<g ref="char:cmbAbbrStroke">̄</g>modo tu ſis <hi>Aeacidae</hi> ſimilis quam te <hi>Ther<g ref="char:EOLhyphen"/>ſitae</hi> ſimilem producat <hi>A<g ref="char:EOLhyphen"/>chilles. Iuven.</hi> Satyr. 8.</note>
+            </p>
+            <p>It is better to deſcend from <hi>Therſites,</hi> and to be like <hi>Achilles,</hi> then to be deſcended from <hi>Achilles,</hi> and to reſem<g ref="char:EOLhyphen"/>ble <hi>Therſites</hi> (ſaith the Poet.) You may be made free of this City, but you cannot be ſaved by your fathers Coppy. The City was once faithfull, now turned harlot.</p>
+            <pb n="30" facs="tcp:64206:19"/>
+            <p>Secondly,
+<note place="margin">Regis ad
+<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>pl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. R<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h u<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> pe mi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>us no<g ref="char:EOLhyphen"/>bili<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Inven.</hi> Satyr.
+8.</note> that the purity and adulterating of Reli<g ref="char:EOLhyphen"/>gion depends very much upon the temper, and quality of the Princes and Governours for the time being. Under the Raigne of King <hi>David,</hi> and <hi>Salomon,</hi> we heare not of theſe complaints; But when <hi>Uzziah, Iotham,</hi> and <hi>Ahaz</hi> came to the Crowne, the faithfull City becomes an harlot. The whole world is ready to compoſe it ſelfe to Princes examples, Subjects like Limners, worke much by the eye.
+<note place="margin">1 <hi>Chron.</hi> 13. Hoſ 13 2. 1 Kin. 14 15.
+1 <hi>Chro.</hi> 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.2. 1
+<hi>Chro.</hi> 20. 2 <hi>Chro</hi> 28.<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4.</note> When <hi>Saul</hi> raigned, the Arke of God was not ſought to. Religion was neglected, When <hi>Ieroboam</hi> raigned, Calves were worſhipped. When <hi>David</hi> aſcends the Throne, Religion begins to recover breath, to revive to flouriſh. When <hi>Ahaz</hi> raign<g ref="char:EOLhyphen"/>ed, the doores of Gods houſe were ſhut.</p>
+            <p>Thirdly, <milestone type="tcpmilestone" unit="unspecified" n="3"/> That though the gates of hell cannot pre<g ref="char:EOLhyphen"/>vaile againſt the whole Catholike Church,
+<note place="margin">
+                  <hi>Mat.</hi> 16.18. <hi>Rom.</hi> 11.20, 21,
+22.</note> it being founded on a Rocke; yet no particular Church can be ſo farre priviledged, but that it may be poſſible for it to recidivate, and revolt from its fidelity in Religion, and profeſſion. Every Church is a Tabernacle, that may be taken downe.</p>
+            <p>A Plant, that may be tranſplanted from ſoyle to ſoyle. A branch that may be broken off from the True Olive. God is ſaid ſomtimes to depart from a Church, as <hi>Hoſ.</hi> 9.11. Sometimes to remove it out of his ſight, as 2 King 23.27. Sometimes to divorce it, as <hi>Ier.</hi> 3.8. He is a free Agent, not bound to places, or perſons; not confined (as the Sun) within his Tropicks. And when he withholds his beames, or influence, the moſt glorious Church ſhall wither, and languiſh. Neither are the Ordinances chained to any, entayled on them, faſtned to their freehold; they are tranfitory, movea<g ref="char:EOLhyphen"/>ble,
+<note place="margin">
+                  <hi>I<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 8.8.</note> and may be alienated. <hi>How doe you ſay we are wiſe, and the Law of the Lord is with us? Loe certainely in vaine
+<pb n="31" facs="tcp:64206:19"/>made he it, in vaine is the pen of the Scribe.</hi>
+               <note place="margin">
+                  <hi>Amos</hi> 8.11. <hi>Zach.</hi> 13.7.
+<hi>Zach.</hi> 11. laſt. 2 <hi>Chro</hi> 15.3.</note> God canſend a famine of the word; ſo that we may goe from Sea to Sea to ſeeke it, and not find it. The Shepheards may be ſmitten, and the ſheepe ſcattered. The lights may be dimmed, and darkned, The Prophets removed. <hi>Iſrael</hi> was long without a teaching Prieſt. They may be hid<g ref="char:EOLhyphen"/>den, or ſlaine, as 1 Kin. 19.10. Or driven away, as <hi>Mat.</hi> 10.23. Or they may fly, as <hi>Iohn</hi>
+10.12. Or a fa<g ref="char:EOLhyphen"/>ction may be ſo prevalent, that the better ſide may be un<g ref="char:EOLhyphen"/>der hatches. And the darkeneſſe may be ſo condenſed, that for the preſent the light cannot breake through.</p>
+            <p>The truth may be ſo ſuppreſt, like a few graines of wheat amidſt a floore full of chaffe, it may be hardly diſcernible. As in
+<hi>Athanaſius</hi> his time the world won<g ref="char:EOLhyphen"/>dred to ſee it ſelfe turn'd Arrian. Thus may a faithfull City become an harlot.</p>
+            <p>Therefore let us not dreame of the ſettled affixing of the ordinances to us.<note place="margin">Application.</note> 
+               <hi>If God ſpared not his naturall bran<g ref="char:EOLhyphen"/>ches, the Jewes, but cut them off, he may not ſpare us; there<g ref="char:EOLhyphen"/>fore be not high minded, but feare;</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 11.21, 22, 23. <hi>Ier.</hi> 3
+8.</note> as Saint <hi>Paul</hi> warnes the Romans. God takes it ill, that
+<hi>Iudah</hi> ſhould not tremble, when he had put away back-ſliding
+<hi>Iſrael.</hi> Let us long and pray for the everlaſting Tabernacle in hea<g ref="char:EOLhyphen"/>ven. Here is no abiding place, we looke for another to come.
+<hi>Abraham</hi> expected a City with a foundation.
+<note place="margin">
+                  <hi>Heb.</hi> 11.10.</note> There is no firmeneſſe here. The faithfull City becomes an Harlot. But</p>
+            <p>Fourthly, <milestone type="tcpmilestone" unit="unspecified" n="4"/> That which I would make ſome pauſe up<g ref="char:EOLhyphen"/>on is to acquaint you, what God eſteemes of Idolatry. Fond, doating man may think it a foyle to ſet off the ſervice of his God: a decorum, a grace, a beauty to di<g ref="char:EOLhyphen"/>vine worſhip. But God, who judges not according to outward appearance, to ſcenes and repreſentations, but judges righteous judgement, accounts it no better then
+<pb n="32" facs="tcp:64206:20"/>Whore-dome.
+<note place="margin">
+                  <hi>Hoſe.</hi> 2.19.20.</note> Our conjunction with God is a marri<g ref="char:EOLhyphen"/>age; our deſerting of him, or conjoyning others with him in worſhip, is adultery. For a Church, a City to follow Idols; is as if a matron, that afore lived ſoberly and modeſtly, and in good repute, ſhould reſigne her ſelfe ever to a wanton, looſe, impudent courſe of life; leaving her husband, and fixing her affections on ſtran<g ref="char:EOLhyphen"/>gers, rendring to them her ſervice, and obedience, and depending on them for her protection, and mainte<g ref="char:EOLhyphen"/>nan<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e. Let us heare the Scripture ſpeake <hi>Thou haſt playd the Harlot with many Lovers. i.</hi>
+               <note place="margin">
+                  <hi>Ier.</hi> 3.1. <hi>Hoſ.</hi> 1.2.</note> The Land hath committed great Whoredome, departing from the Lord. She is not my wife,
+<note place="margin">
+                  <hi>Hoſ.</hi> 2.2.5.</note> neither am I her husband, for ſhe hath playd the Harlot. <hi>Ephraim</hi> is joynd to Idols; let her a<g ref="char:EOLhyphen"/>lone:
+<note place="margin">
+                  <hi>Hoſ.</hi> 4.17.18.</note> they have committed Whoredome. The one verſe is exegeticall to the other.
+<note place="margin">
+                  <hi>Apoc.</hi> 17.2. <hi>and</hi> 18.2. Moechia affi<g ref="char:EOLhyphen"/>nis Idolola<g ref="char:EOLhyphen"/>triae. <hi>Tertull</hi> De pudici. <hi>Wiſd.</hi>
+14.11.</note> In this ſenſe <hi>Babylon</hi> is call'd a great Whore, with whom the Princes of the earth commit fornication. Adultery is a kin to Idolatry, ſaith <hi>Tertullian.</hi> They are of a houſe. <hi>Prima ſcortatio excogitatio ſimulachrorum,</hi> ſaith <hi>Epiphanius,</hi> borrowing it from the Booke of Wiſedome, which in this is no Apo<g ref="char:EOLhyphen"/>crypha. The inventing of Idols was the beginning of Whoredome. According to this interpretation.</p>
+            <p>The City, <milestone type="tcpmilestone" unit="unspecified" n="1"/> the Church of <hi>Rome,</hi> that was once faith<g ref="char:EOLhyphen"/>full,<note place="margin">Application.</note> is become an Harlot. According to the multitude of her houſes are her Gods, her Saints, her Idols, to which ſhe daily pays that homage that is due to God alone (for the bed, and the throne brooke no rivals) The Carpenter,
+<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Faber &amp; piſtor mille dedere Deos. Non ipſa ti<g ref="char:EOLhyphen"/>memus, ſed cos ad quorum imaginem<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cta, et quorum no.</note> and the Baker yeeld them a thouſand Gods. When they reply, that they worſhip not Idols, but God in them: It is no more then the groſſeſt, hea<g ref="char:EOLhyphen"/>theniſh Idolaters have pleaded for themſelves, as wee find in <hi>Lactantius,</hi> wee ſay they, feare not the images themſelves, but thoſe that are reſembled by them, and
+<pb n="33" facs="tcp:64206:20"/>to whoſe names we conſecrate them. And in
+<hi>Arnobi<g ref="char:EOLhyphen"/>us,</hi> we worſhip the Gods by images. Beſides ſhall an adultereſſe alledge for her ſelfe,
+<note place="margin">minibus conſe<g ref="char:EOLhyphen"/>crata ſunt. La<g ref="char:EOLhyphen"/>ctan: Deos per ſimulachra ve<g ref="char:EOLhyphen"/>neramur. <hi>Ar<g ref="char:EOLhyphen"/>nob.</hi>
+               </note> that ſhe honours her husband in her paramour? And if they ſay, they worſhip the true, not a falſe God in their images, as the heathen doe, I reply, with the Apoſtle, that many of the heathen knew the corruptible God, and changed his glory into an image; as the Papiſts at this day doe. Beſides <hi>Micha</hi> is branded with Idolatry for erecting an image, though in memory of the God of
+<hi>Iſrael.</hi> And,
+<note place="margin">
+                  <hi>Rom.</hi> 1.21.23. <hi>Iudg.</hi>
+17.3.13.</note> if it be urged that they worſhip none but the holy Saints of God: I an<g ref="char:EOLhyphen"/>ſwer, I much doubt of that. Had I time, I could prove that many of their Saints are fictious, ſuch as never were in nature. And their owne learned men feare that ſome of them are now in hell. However it be; this will no more excuſe them, then it would an adultereſſe to ſay, that ſhe lyes with none, but her husbands friends. All the water in <hi>Tiber</hi> cannot waſh <hi>Rome</hi> from Idolatry. Eſpecially when we find (and who would thinke they could be ſo infatuated, and beſotted?) that they worſhip <hi>Authonies</hi> Swine; <hi>Annaes</hi> Comb, <hi>Criſpins</hi> paring-knife; <hi>Francis Cowle, Georges</hi> Scabbard, <hi>Joſephs</hi> Breeches, <hi>Mar<g ref="char:EOLhyphen"/>tins</hi> Boots, <hi>Thoma's</hi> Shooes, <hi>Roches</hi> Dogs. Theſe Ro<g ref="char:EOLhyphen"/>mans ſacrifice to God, and to <hi>Mary,</hi>
+               <note place="margin">Deo, &amp; <hi>Mariae</hi> Deo, &amp;
+<hi>Mario.</hi>
+               </note> as the ancient E<g ref="char:EOLhyphen"/>thnicke Romans did to God, and to
+<hi>Marius</hi> for their victory over the Cimbri. And theſe deeds anſwer their Lawes, Conſtitutions, and Language.</p>
+            <p>It was promiſed at <hi>Rome,</hi> that what good man ſoever would ſay afore a Crucifix, ſeven Paternoſters, and ſea<g ref="char:EOLhyphen"/>ven Avemaries, ſhould obtaine 56000. yeeres of par<g ref="char:EOLhyphen"/>don; 14000. granted by <hi>Gregory,</hi>
+14000. by <hi>Nicholas;</hi> and 28000. by <hi>Sixtus</hi> the fourth. Nay heare how they beſpeake the Virgin <hi>Maries</hi> girdle; Oh bleſt girdle! make us inheritors of everlaſting life; keepe us from
+<pb n="43" facs="tcp:64206:21"/>deſtruction;
+<note place="margin">Flippoman: Iewell Replic. pag. 398.
+<hi>Gen.</hi> 20.6.</note> Oh pure girdle! preſerve thine heritage; be our ſtrength, ayd, wall, defence.</p>
+            <p>To rake no longer in this dunghill. Not long agee we our ſelves did fairely trot toward Idolatry, had not our courſe been checkt, and countermanded by Divine Providence. Our innovators might with
+<hi>Abimelech</hi> pre<g ref="char:EOLhyphen"/>tend, they did all in the integrity of their hearts; but we may anſwer them, as God there doth him; I with<g ref="char:EOLhyphen"/>held thee from ſinning againſt me.</p>
+            <p>Let us now looke to our footing. <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <hi>Though Iſrael have plaid the harlot,
+<note place="margin">
+                     <hi>Hoſ.</hi> 4.15. <hi>Hoſ.</hi> 2.7. 1
+<hi>Ioh.</hi> 5.21. 2 <hi>Cor</hi> 6.16. <hi>Ezek</hi> 16.15. <hi>to</hi> 37. Principale cri<g ref="char:EOLhyphen"/>men gencris human, Sum<g ref="char:EOLhyphen"/>mus ſeculi reatus. Lo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uples ſub<g ref="char:EOLhyphen"/>ſtantia crimi<g ref="char:EOLhyphen"/>nis,
+<hi>Tertul.</hi> Ado<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ant in<g ref="char:EOLhyphen"/>ſenſibilia; qui ſentiunt, Irra<g ref="char:EOLhyphen"/>tionalia, qui ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>piunt, exa<g ref="char:EOLhyphen"/>nima, qui vi<g ref="char:EOLhyphen"/>vunt, terrena, qui otiunturè coelo. Lactan. Inſtit. L. 1. <hi>Rom.</hi> 1.23. Divina Maje<g ref="char:EOLhyphen"/>ſtas in ſimula<g ref="char:EOLhyphen"/>chronu<g ref="char:cmbAbbrStroke">̄</g> ſtolidi<g ref="char:EOLhyphen"/>tate facile co<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>remnitnur.
+<hi>An.</hi> Civit.</note> yet let not Iudahſinne.</hi> Let us returne to our firſt Husband, as the Church reſolves. Let us keep our ſelves from Idols, as Saint <hi>Iohn</hi> counſels us. Say unto them get thee hence; as it is
+<hi>Iſay</hi> 30.21, 22. What agreement hath the Temple of God with idols, ſaith Saint <hi>Paul.</hi> Saint <hi>Peter</hi> calls them abominable idolatries, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 1 <hi>Pet.</hi> 4.3. Idolatry is the worſt kind of adultery, as the Metaphor is elegantly followd, and continued in
+<hi>Ezekiel.</hi> It is the principall crime of mankind, the higheſt guilt of any age; a hainous com<g ref="char:EOLhyphen"/>prehenſive mother ſinne. It is a braine-ſicke, ridicu<g ref="char:EOLhyphen"/>lous ſinne, as it is delineated to the life. <hi>Iſay</hi> 44.9. to
+21. As good blocks, as Images have layne at the fire<g ref="char:EOLhyphen"/>back, and have boyl'd
+<hi>Diagoras</hi> his turneps. In a time of danger they are not able to keepe themſelves, much leſſe their keepers. <hi>Aeneas</hi> at the conflagration of <hi>Trey</hi> was faine to ſave his gods. What more then madneſſe is it, that the ſenſible ſhould adore the inſenſible; they that have the uſe of reaſon, the irrationall; the living, the liveleſſe; they that are heaven-bred, earthly ſtocks. To make images, much more to worſhip them is con<g ref="char:EOLhyphen"/>tumelious to God, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (ſaith <hi>Clemens ad Corinthios</hi>) what more ſtolid, and inſufferable then to turne the glory of the incorruptible God into the image of a
+<pb n="35" facs="tcp:64206:21"/>man, a bird, a beaſt, as Saint <hi>Paul</hi> aggravates it.</p>
+            <p>It frets God, tha'ts the word, <hi>Ezek.</hi> 16.43. It is un<g ref="char:EOLhyphen"/>faithfulneſſe (that I may have my Text in my eye). It is breaking of covenant, and oath. <hi>Ezek.</hi> 16.59. It is ſuing out a divorce betweene God and us. <hi>Hoſ.</hi> 2.2. It gives away Gods honour and glory.
+<hi>Iſay</hi> 42.8.
+<note place="margin">
+                  <hi>Act.</hi> 15.20.</note> It brings Divine Majeſty into contempt. It is a hatred of God, as is implyed in the ſecond Commandement. It pollutes the ſoule. It provokes God to give us up to a reprobate ſenſe. It is threatned with impunity, which is the worſt of puniſhments. Let me have none of ſuch mercy, ſaith <hi>Aug.</hi>
+               <note place="margin">Nolo hane miſericordiam <hi>Aug. Ezek.</hi>
+16.42. <hi>Hoſ.</hi> 4.17.</note> I will be quiet (ſaith God) I will be no more angry. <hi>Ephraim</hi> is given to idols, let him alone. He is a privileg'd perſon, he may runne to hell without interruption. It is fatall to any Nation. Moſt of the miſeries, tranſportations, captivities of Iſrael ſprung from idolatry. For other crimes God,
+<note place="margin">
+                  <hi>Ezek</hi> 16.23. <hi>Iud.</hi> 10.6.8. 2
+<hi>Chro.</hi> 28.23. <hi>Ezek.</hi> 16 40.48 Idololatres homicida eſt<g ref="char:EOLhyphen"/>quaeris quem occiderit? ſcipſum quot Plagit? quo<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> quot idolola<g ref="char:EOLhyphen"/>triis. <hi>Tertul.</hi> Caſtius dii obſervantur line ſimula<g ref="char:EOLhyphen"/>chris. <hi>Aug.</hi> Civi. l 4. c. 31. Crucesnec co<g ref="char:EOLhyphen"/>limus nec op<g ref="char:EOLhyphen"/>tamus. <hi>Arnch.</hi> Nec ex hor<g ref="char:EOLhyphen"/>reſcunt bea tae Trinitatis imaginem fa<g ref="char:EOLhyphen"/>cere.</note> and his people (like husband and wife) may have unkind bickerings, but for this he caſts them off. Woe, woe is thee for it, ſaith God. For this Iſrael was vexed 18. yeares. This ruin'd
+<hi>Ahaz</hi> and all Iſrael. This is threatned with ſto<g ref="char:EOLhyphen"/>ning, ſword, fire, conſuming in the ſight of many (as a ſpectacle, a monument of miſery) with fury and la<g ref="char:EOLhyphen"/>ſting woe. An Idolater, ſaith
+<hi>Tertullian,</hi> is a man-ſlayer. Doe you aske whom he ſlayes? why, himſelfe. Doe you demand at how many blowes? why? with ſo many as idolatries. In a word; Idolaters are ranked among that damned crue.
+<hi>Apocal.</hi> 21.8.</p>
+            <p>Theſe conſiderations moved <hi>Iuſtin Martyr</hi> to ſay, I would not beleeve God himſelfe, ſhould hee ſay, <hi>I</hi> ſhould worſhip images. Never let thoſe hands Sacri<g ref="char:EOLhyphen"/>fice to idols, which have receiv'd Chriſts body, and would receive the Crowne of glory; ſaith
+<hi>Cyprian de Lapſu.</hi> God is more chaſtly worſhipt without images,
+<pb n="36" facs="tcp:64206:22"/>could <hi>Varro</hi> the Philoſopher ſay,
+<note place="margin">Euthymius, Fatuum eſt imaginem fa<g ref="char:EOLhyphen"/>cere adrep. ae<g ref="char:EOLhyphen"/>ſentandum D<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um, velcam revere<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Du<g ref="char:EOLhyphen"/>randus. Mul<g ref="char:EOLhyphen"/>to faciliusom niumunag<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>u<g ref="char:cmbAbbrStroke">̄</g> cultus poſſit removeri, qua<g ref="char:cmbAbbrStroke">̄</g> modus &amp; ratio hujuſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e cultus ab ullo homi<g ref="char:EOLhyphen"/>ne de<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iti. Eraſmus.</note> We neither adore, nor deſire Croſſes, ſaith <hi>Arnobius.</hi> They are not afraid to make an image of the bleſſed Trinity, complaines <hi>En<g ref="char:EOLhyphen"/>thymius.</hi> It is fooliſh to make an image to repreſent God, or to worſhip it, ſaith <hi>Durand.</hi> All worſhip of images may much more eaſily be removed, then the meaſure, and manner of that worſhip can by any manbe deſined, ſaith
+<hi>Eraſmus.</hi> Since wee are compaſt about with ſuch a cloud of witneſſes, ancient, moderne, Fa<g ref="char:EOLhyphen"/>thers, Schoolemen; and ſome ſoberer Papiſts, all ſworne enemies to idolatry: (I might adde Turks, who hate an image, becauſe they have read the <hi>Penta<g ref="char:EOLhyphen"/>teuch,</hi> the five bookes of
+<hi>Moſes</hi>) God forbid, that this faithfull Kingdome, and City ſhould ever become an harlot.</p>
+            <p>
+               <hi>I</hi> will not offer over much violence to your patience.
+<hi>I</hi> ſhall but point to what <hi>I</hi> would have ſaid concerning the reſt of the Text, and then I will ſet your attention at liberty.</p>
+            <p>The bright-ſide of the cloud in the ſecond period of this charge is. The City was full of judgement. Righteouſneſſe lodged in it.</p>
+            <p>It is a rule for the moſt part true, that in Scripture, when the word Righteouſneſſe is found alone, (<hi>I</hi> ſpeak not of imputed, but imparted righteouſneſſe; and that not onely impreſt in the ſoule, but alſo expreſt in the life, not onely towards God, but alſo towards man.) It includes judgement alſo. But when we find judgement, and righteouſneſſe, or juſtice in conjun<g ref="char:EOLhyphen"/>ction (like a bright Conſtellation,) They differ, ei<g ref="char:EOLhyphen"/>ther as ſpeciall, and generall. Or the firſt we confine to the publike; the latter wee enlarge to the private, and ordinary exerciſe of juſtice.</p>
+            <p>
+               <hi>Jeruſalem</hi> was full of judgement.</p>
+            <pb n="37" facs="tcp:64206:22"/>
+            <p>Generally, perſons of all rankes, in all kinds of cau<g ref="char:EOLhyphen"/>ſes did put all kinds of judgement in execution. Ima<g ref="char:EOLhyphen"/>gine the Prophet had thus enlarged himſelfe. Apply you it, as I proceed.</p>
+            <p>In this City heretofore there was no ſale of Offices, no enhaunſing of fees, no ſubtleties of delay, and eva<g ref="char:EOLhyphen"/>ſion, no trucking for expedition, no making ſnares of petty penall ſtatutes, no extorting of judgement, it dropt as kindly as honey from the combe; as <hi>Francis</hi> the firſt of <hi>France,</hi> when a woman kneeled to him to beg juſtice; bad her ſtand, for, ſaid he, juſtice <hi>I</hi> owe th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e woman; if thou beg any thing, let it be mercy.) There was no reſpect of perſons, but every man far'd as his cauſe was (as the Areopagites uſed to heare cau<g ref="char:EOLhyphen"/>ſes, and adminiſter juſtice in the night, and by darke, that they might not ſee whom they acquitted, or con<g ref="char:EOLhyphen"/>demned. Bribery was odious. Juſtice had ſcales, in her hand, not to weigh gold, but equity. The Indians caſt gold into Ganges to make it runne currently, but the ſtreame of judgement needed it not. Power, and might was no right. There was no ſuch plea beard as that of <hi>Pompey</hi> to thoſe of <hi>Meſſina,</hi> what talke you to us of law, who have our ſwords by our ſides? They were aſhamed to ſay, thou haſt a better cauſe, but I have better teeth. There was no ſcouring up of ruſty, <hi>obſole<g ref="char:EOLhyphen"/>te, antiquated</hi> Lawes, that (cobweblike) might hold ſmall flies, and ſuffer great hornets to breake through. No, no. The Judges and Magiſtrates were as
+<hi>Noahs</hi> Arke to take in weary Doves. As the hornes of the Altar for oppreſt innocence to betake it ſerſe unto. They curbed the inſolencies, and reform'd corruption in inferiour Officers. They removed all obſtructions that juſtice might runne downe like a mighty ſtreame. Nor feare, nor favour, nor great mens letters did ſway them.
+<pb n="38" facs="tcp:64206:23"/>They conſidered, that they were men afore God, though Gods afore men.
+<note place="margin">
+                  <hi>Pſal.</hi> 82.6. <hi>Exod.</hi> 4.20.
+<hi>Iudg.</hi> 7.10. 1 <hi>Chron.</hi> 29.23. <hi>Rom.</hi> 13.2.</note> That their Rod was Gods, as <hi>Moſes</hi> rod. Their ſword Gods, as
+<hi>Gedeons.</hi> Their Throne Gods, as <hi>Davids.</hi> Their power and authority Gods.</p>
+            <p>The Plaintifs, or accuſers did not informe and pro<g ref="char:EOLhyphen"/>ſequute through malice, envy, or for advantage. They did not fiſh for words, ſyllables, or letters to catch un<g ref="char:EOLhyphen"/>wary, well meaning men. They would not coyne falſe<g ref="char:EOLhyphen"/>hoods; nor make hard, uncharitable, rackt conſtru<g ref="char:EOLhyphen"/>ctions of indifferent, harmeleſſe words, and actions. Witneſſes had not hackny conſciences, like our knights of the Poſt. They were not ſuborn'd to ſweare truth out of the Court. The Lawyers, Advocats, pleaders, would not
+<hi>call evill good,
+<note place="margin">
+                     <hi>Iſay</hi> 5.20.</note> and good evill, bitter ſweet,</hi> &amp;c. Nor abuſe the Judges favour in granting them liberty of ſpeech: Nor turne juſtice into vineger by delayes: Nor pervert, wiredraw, or ſhrivell up wholeſome lawes to the prejudice of afflicted, overborne inno<g ref="char:EOLhyphen"/>cence.
+<note place="margin">Canes vena<g ref="char:EOLhyphen"/>trci.</note> The ſetting dogs, the Informers, that lye at catch, were not countenanced, or were ſeverely puniſht upon any falſe, unjuſt, or malicious information. The ſubordinate Officers durſt not help Potent Delinquents out of the bryers, nor ſuffer poore men tempeſt-toſt in Law to languiſh in their buſineſſe within ken of har<g ref="char:EOLhyphen"/>bour for want of giving a ſop to
+<hi>Cerberus,</hi> or offring to the great <hi>Diana</hi> of expedition. No, no. The City was full of judgement. Next, Juſtice lodged in it.</p>
+            <p>
+               <hi>Jaalin,</hi> as the Hebrew hath it, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as the Sep<g ref="char:EOLhyphen"/>tnagint.
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Per noctavit: Iuſtitia eſt, quae dat cu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>bet, quod ſuu<g ref="char:cmbAbbrStroke">̄</g>, nihil arri<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>ens alienum. <hi>Ambr.</hi> 1. de offie.</note> Juſtice tooke quiet reſt, and repoſe there. It was the ordinary, ſtanding houſe, and Seate of juſtice, It dwelt there. There Righteouſneſſe was at home. The Citizens did render to every one their owne (which is the definition of Juſtice) In a diſtributive and commu<g ref="char:EOLhyphen"/>tative way (which are the kinds of juſtice) According
+<pb n="39" facs="tcp:64206:23"/>to the Law (which is the rule of juſtice.) The Law of God, of nature; of Nations; and the municipall, ſtatute, judiciall Lawes eſtabliſhed among them: And that, not according to the captious letter alwayes, but the genuine, uninforced ſenſe, and reaſon of the Law. Juſt they were in buying, and ſelling. Juſt in lending, and borrowing. Juſt in letting, and hiring. Juſt in fe<g ref="char:EOLhyphen"/>offments. Unſway'd in negotiations with all rankes of men; great and ſmall; acquaintance, and ſtrangers; friends, and foes.</p>
+            <p>Of this Eucracy; this healthfull temper, and conſti<g ref="char:EOLhyphen"/>tution the City once was.</p>
+            <p>But loe, a ſtrange turn, a viciſſitude, a revolution in the face of things. This was too good to hold. Turne your eyes to the blacke ſide of the cloud. Righteouſneſſe lodg'd indeed in the City; like a gueſt for a night, and away, but now murderers are tolerated there.</p>
+            <p>By this complaint gather, how tender God is of the life of Man;
+<note place="margin">Dei domeſti<g ref="char:EOLhyphen"/>cum animal <hi>Ambr.</hi> De Arca, &amp; Not:</note> whom <hi>Ambroſe</hi> calls Gods houſhold crea<g ref="char:EOLhyphen"/>ture.</p>
+            <p>Againe we ſee, that they that had broken their Faith with God, would not keepe it with man. They that ſpare not their God in the duties of the firſt Table, will not ſcruple the abuſe of their neighbour in the du<g ref="char:EOLhyphen"/>ties of the ſecond Table. The City from a receptacle, a tabernacle, an harbour of the juſt, was become awilder<g ref="char:EOLhyphen"/>neſſe, a den, a cave of murderers. Whether murderers of ſoules, by ſilence, and connivence;
+<note place="margin">2 <hi>Kin.</hi> 12.3. <hi>Rom.</hi> 14.13.
+<hi>Iro.</hi> 7.18. 1 <hi>Kin.</hi> 21.25. 2 <hi>Sam.</hi> 13.15. <hi>Dan.</hi>
+3.4.5.6. <hi>act.</hi> 26.11.</note> as <hi>Jehoaſh</hi> was to the people. Or by example, and ſcandall, as in the Epi<g ref="char:EOLhyphen"/>ſtle. Or by inticement, as the ſtrange woman to the young man. Or by incitation, as Queen <hi>Iezabel</hi> to King <hi>Ahab.</hi> Or by counſell, as <hi>Ionadab</hi> was to
+<hi>Amon.</hi> Or by command as King <hi>Nebuchadnezzar</hi> was to the people. Or by compulſion, as <hi>Saul</hi> to many Saints. Or guilty,
+<pb n="40" facs="tcp:64206:24"/>though not of open, obvious, yet of cloſe, or contrived murder; covering blood with duſt; as we have the ex<g ref="char:EOLhyphen"/>preſſion in the Prophet.
+<note place="margin">
+                  <hi>Ezek.</hi> 24.7.</note> At leaſt ſweld with unadviſed, implacable anger, and rancored envy, which in our Savi<g ref="char:EOLhyphen"/>ours,
+<note place="margin">
+                  <hi>Mat.</hi> 5.21.22. 1 <hi>Ioh.</hi>
+5.15.</note> and S. <hi>Iohn's</hi> account are a <hi>Tantamount</hi> to murder. Or elſe guilty of rapine, violence, oppreſſion, grinding the faces of the poore; perſecution (which of the Pro<g ref="char:EOLhyphen"/>phets,
+<note place="margin">
+                  <hi>Act.</hi> 7.52.</note> have not your fathers perſecuted? ſaith <hi>Steven.</hi> Racking of rents (ſo call'd from rending, and tearing) laying up unable men to crumble away in loathſome priſons. Not paying of due debts. Withholding of wa<g ref="char:EOLhyphen"/>ges. Which is a murder. Not to bring oyl to feed the Lampe, is to extinguiſh it. Briefly, Deſpoyling others of their eſtates by colluſion, fraud, or a pretended courſe of Law or equity; which is murther. For it is all one to take away the Life, or the lively-hood.</p>
+            <p>Next, Their ſilver was become droſſe, whether you take the ſilver for men famous, for piety, and profeſſi<g ref="char:EOLhyphen"/>on of Religion.
+<note place="margin">
+                  <hi>Plato</hi> de Repub.</note> As
+<hi>Plato</hi> cals juſt men golden, and ſilver<g ref="char:EOLhyphen"/>men. The turn'd reprobate mettle, as the Prophet phraſes it.
+<note place="margin">
+                  <hi>Ie<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 6.30. In concil. Tri<g ref="char:EOLhyphen"/>burienn An. Dom. 895.</note> As it was ſaid in a councell: time was, when there were golden Prieſts, though wodden chalices; now there are golden chalices indeed; but wodden Prieſts. Or whether this ſilver be the ordinances of God; as the word is by the Pſalmiſt compared to ſeven times tryed ſilver.
+<note place="margin">
+                  <hi>Pſal.</hi> 12.6. Quid numis<g ref="char:EOLhyphen"/>ma<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a, niſi divi<g ref="char:EOLhyphen"/>ni ſermones i<g ref="char:EOLhyphen"/>magin in magni regis impreſ<g ref="char:EOLhyphen"/>ſam habentes <hi>Origen.</hi> in
+<hi>Iohan.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 2 <hi>Cor.</hi> 2.17. Mo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eta falſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> It is ſilver for its beauty, firmneſſe, incorrupti<g ref="char:EOLhyphen"/>bility, and value. What is this mony (ſaith
+<hi>Origen</hi>) but Gods word bearing upon it the Image, &amp; ſuperſcripti<g ref="char:EOLhyphen"/>on of the Great <hi>Caeſar</hi> inhewen? Which ordinances they adulterated, and ſophiſticated with humane gloſſes, in<g ref="char:EOLhyphen"/>ventions, and traditions, which <hi>Paul</hi> cals corrupting the word of God. Or (as the greeke word imports) playing the drugſters, or huckſters with it for gaine.</p>
+            <p>Or whether (with D. <hi>Kimchi,</hi> and others) we under<g ref="char:EOLhyphen"/>ſtand
+<pb n="41" facs="tcp:64206:24"/>it literally of embaſing of bullion and coyne;
+<note place="margin">Locum <hi>Se<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ni</hi> coſum. <hi>Aug.</hi>
+               </note> or paſſing away droſſy for pure ſilver. <hi>Augustine</hi> calls this a thorny, a hard place; and therefore it may well be vari<g ref="char:EOLhyphen"/>ouſly interpreted.</p>
+            <p>Laſtly, Their wine mixt with water.</p>
+            <p>There was impoſture,
+<note place="margin">Inter jura pec<g ref="char:EOLhyphen"/>catur, innocen<g ref="char:EOLhyphen"/>tia ne<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> illie u<g ref="char:EOLhyphen"/>bi defenditur, reſervatur, quis inter haec ſubveniat? Pa<g ref="char:EOLhyphen"/>tronus? ſed Prevaricatur judex? ſed ſententiam vendit: qui ſedet crimina vindicaturus, admittit. &amp;c.
+<hi>Cypr. Epi.</hi> 2. Donato. ſincera ſine ce<g ref="char:EOLhyphen"/>ra ſimplex ſine plica.</note> prevarication in Courts of juſtice. (Juſtice is like wine refreſhing the heart of the oppreſt) they did beare, and keepe up formall procee<g ref="char:EOLhyphen"/>dings, and make a noyſe in courſe, as if they were zea<g ref="char:EOLhyphen"/>lous onely for juſtice; and yet underhand poyſon'd, perverted, and everted juſtice. As it was <hi>Cyprians</hi> com<g ref="char:EOLhyphen"/>plaint in his time, no where more wrong, then where right was to be expected; innocency not there reſerv'd, where it ſeem'd to be defended. Who ſhall ſuccour the oppreſt? the Patron? he prevaricates. The Judge? he ſels his judgement. He that ſits to puniſh crimes, com<g ref="char:EOLhyphen"/>mits them. <hi>&amp;c.</hi> To returne to the Text. There is hypo<g ref="char:EOLhyphen"/>criſy in all their commerce. Mingling bad with good, &amp; ſelling all for the beſt. They uſe falſe weights, and de<g ref="char:EOLhyphen"/>ceitfull meaſures. They turne <hi>Oeneus</hi> into <hi>Peleus;</hi> as it is obſerved by the Critiques on the Text. There is no pure, ſincere, genuine dealing among them. No ſimpli<g ref="char:EOLhyphen"/>city, no plainneſſe, no integrity in their trading. Plaine-dealing hath beene alwayes counted a jewell; but yet men have thought, that they that conſtantly uſe it are like to dye beggars. I wonder it ſhould be ſo, when there are in the world ſo many beggars, and ſo few plain-dea<g ref="char:EOLhyphen"/>lers.</p>
+            <p>Laſt of all, The Text may be meant of a blending mixture in Religion.
+<note place="margin">1 <hi>Kin.</hi> 18.21: 2 <hi>Kin.</hi>
+17.33.</note> When men will <hi>Halt betweene God and Baal.</hi> And ſeeme (like them in <hi>Samaria</hi>) to feare God, and to ſerve other Gods too. Speaking (like the
+<pb n="42" facs="tcp:64206:25"/>Jewes children) halfe the language of
+<hi>Aſhdod.</hi>
+               <note place="margin">
+                  <hi>Nehem.</hi> 13.14. <hi>Aoſ.</hi> 7.8.
+<hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eph.</hi> 1.5.</note> Being (like <hi>Ephraim</hi>) a cake not turned, halfe baked. Swearing by the Lord, and by <hi>Malchom.</hi> Shifting their ſayles to every wind. Calculating for all meridians. Shifting (like Maskers) vizors,
+<note place="margin">Pontificii Sco<g ref="char:EOLhyphen"/>ria, &amp; aqua; traditiones, &amp; ſuperſtitiones. <hi>Cyrill. Baſil. Hieron. &amp; Cornelius</hi> a La<g ref="char:EOLhyphen"/>pidc. Liv. Dec. 1. <hi>l.</hi> 1. Quaedam col<g ref="char:EOLhyphen"/>luvies omniu<g ref="char:cmbAbbrStroke">̄</g>. Matri indicaſ<g ref="char:EOLhyphen"/>ſem non me quidemiam eſſe manichae<g ref="char:EOLhyphen"/>um. Sed nec catholicum Chriſtianum. <hi>Aug.</hi> confeſſ. <hi>l.</hi> 6. <hi>c.</hi> 1.</note> and ſcenes. Bridge-makers; reconci<g ref="char:EOLhyphen"/>lers betweene God, and Dagon; betweene religions a<g ref="char:EOLhyphen"/>ſyſtaticall and inconſiſtent. Making up a linſy-wolſy mungrell Religion. Making uſe of all ſides to advance ends. Like <hi>Metius Suffetius,</hi> alwayes cleaving to the ſtronger ſide. Like the
+<hi>Polypus,</hi> aſſuming the colour of what ever-rocke, or ſand ſhe cleaves to. Like <hi>Conſtantine</hi> ſurnamed <hi>Copronymus,</hi> that would bee neither Jew, Chriſtian, nor Pagan, but a hodge-potch, a Babell, a Chaos of all. Like <hi>Redwald</hi> the King of the Eaſt Saxons, who had in his Chappell one Altar for Chriſt, and an<g ref="char:EOLhyphen"/>other for ſacrifice to devills. As <hi>Augustine</hi> confeſt of himſelfe. I told my mother (ſaith hee) that now I was no Manichee; but heare you? by your leave, nor aſound Chriſtian neither. Application.</p>
+            <p>To Dehort you ſeriouſly from this humour; Let me mind you,<note place="margin">Application.</note> That</p>
+            <p>A man divided betweene ſeverall Religions can bee zealous in neither. <milestone type="tcpmilestone" unit="unspecified" n="1"/> As a river cut into many channels runnes ſhallow in all. <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+            </p>
+            <p>God abhorres plowing with an Oxe and an Aſſe to<g ref="char:EOLhyphen"/>gether.
+<note place="margin">
+                  <hi>Deut.</hi> 22.10. <hi>Rev.</hi>
+3.15.16.</note> Hee preferres key-coldneſſe afore luke-warme<g ref="char:EOLhyphen"/>neſſe. As wee uſe to disburthen our ſtomacks of luke<g ref="char:EOLhyphen"/>warme meates, and drinks. If meates be hot, they con<g ref="char:EOLhyphen"/>tract the ſtomach by exſiccation; if cold, by pinching it; both which helpe concoction; but luke-warme meates dilate the ſtomach, and keepe it open, that it cannot diſgeſt them.</p>
+            <pb n="41" facs="tcp:64206:25"/>
+            <p>It is juſt, that a Neuter ſhould be ſuſpected and hated on both ſides: <milestone type="tcpmilestone" unit="unspecified" n="3"/> ſuch have been execrable in all wel ordred States. <hi>Solon</hi> out-law'd theſe halvers. I am ſure, that he,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Plutar.</hi>
+               </note> who in Religion is on both ſides, is on no ſide.</p>
+            <p>Such (fourthly) will quickly apoſtatize from what they profeſſe. No marvell this City turnes harlot, <milestone type="tcpmilestone" unit="unspecified" n="4"/> when her wine is mixt with water. He that is ſurpriz'd with the dead Palſie on one ſide will ſoon be ſtrooken on the other. Theſe (like <hi>Noahs</hi> Dove) goe, and come; goe and come to the Arke of Religion; and at length goe, and never returne againe.</p>
+            <p>This mixture is a ſad prognoſticke of approaching ruine of the guilty. <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+            </p>
+            <p>Fame, and the eye,
+<note place="margin">Non patitur ludum fama, fides, oculus.
+<hi>Eccle</hi> 2.13.</note> and our faith will not be playd with. Woe to him (ſaith <hi>Salomon</hi>) that goes two man<g ref="char:EOLhyphen"/>ner of wayes. They have defiled my name (ſaith God) and I have conſumed them in mine anger, becauſe they ſet their threſhold by my threſhold,
+<note place="margin">
+                  <hi>Ezek.</hi> 43.8.</note> and their poſt by my poſts; and the wall betweene me, and them. As if as this day, he ſhould ſay, there is Maſſe on one ſide the wall, and my Service on the other. He never diſgeſt this affront. <hi>Anastaſius</hi> the Emperour labouring to re<g ref="char:EOLhyphen"/>concile the Arrian, and the Orthodoxe, was ſlaine with lightning. King
+<hi>Henry</hi> the fourth of <hi>France</hi> complying with all ſides met a knife, firſt in his mouth, &amp; after in his heart. To cloſe all with that of <hi>Eliah.</hi>
+               <note place="margin">1 <hi>Kin.</hi> 18.21.</note> If the Lord be God, follow him; and if <hi>Baal,</hi> then follow him. And with that of Saint
+<hi>Paul</hi> to <hi>Agrippa, I</hi> would to God, we were all of us, not almoſt, but altogether Chriſtians.
+<note place="margin">
+                  <hi>Act.</hi> 26.29.</note>
+            </p>
+            <p>I had now caſt anchor; but that this paper calls upon me to adde a word of charity, and mercy to my diſcourſe of judgement and juſtice, the argument of my
+<pb n="44" facs="tcp:64206:26"/>Text,
+<note place="margin">
+                  <hi>Pſa.</hi> 101.1</note> That my ſong (like <hi>Davids</hi>) may be of mercy, and judgement. It is not ſufficient to give others their owne, which is the proper worke of juſtice; unleſſe al<g ref="char:EOLhyphen"/>ſo we give ſomewhat of our owne to others; when cha<g ref="char:EOLhyphen"/>rity ſues out a divorce betweene us, and a part of our goods,
+<note place="margin">
+                  <hi>Iam.</hi> 2.13.</note> Judgement without mercy (ſaith Saint <hi>Iames</hi>) to them that are all for juſtice, and ſhew no mercy. To the glory of God be it ſpoken; to the incouragement of others, and to the ſtopping of the mouthes of the Ro<g ref="char:EOLhyphen"/>maniſts, that are alwayes crying, we are all for faith, and nothing for workes. Behold a liſt of this Cities this yeers works of charity. Not extorted from them, as the Papiſts are from them, by a Prieſts hovering over expiring carcaſſes, and threatning Purgatory, differing nothing from hell, but in duration.</p>
+            <p>The terror whereof on them that are ſo fond to cre<g ref="char:EOLhyphen"/>dit it, will worke ſuch an impreſſion; that to avoyd it, they will disinherit all their children, and undoe all their family. The love of Chriſt (I hope) hath con<g ref="char:EOLhyphen"/>ſtrained you to ſuccour, harbour, and relieve his af<g ref="char:EOLhyphen"/>flicted members. Then the paper was read.</p>
+            <p>All this is well; if you bee humble (for the eye of man, if you aime at that, is a baſiliske, that kils all good workes.) And if you be conſtant. Be not weary of well doing. Be ſtill like your ſelves. Never give cauſe to the world to expoſtulate, (as <hi>Iſay</hi> doth in my Text) How is this charitable City become mercileſſe? Charity did lodge in her, but now flinty-hearted, and cloſe<g ref="char:EOLhyphen"/>handed miſers. Remember that riches are call'd goods, not becauſe they make you good, but becauſe you may doe good with them. That God made thee rich, and thy brother poore to exerciſe his
+<pb n="54" facs="tcp:64206:26"/>patience, and thy liberality. That Chriſt came to ſave your ſoules, and not your purſes. That we may be brought to that exigence our ſelves, that our brethren in <hi>Ireland,</hi> and others are now preſt with. That the wheele may turne, and we become ſuitors to thoſe, that are now our beads-men, and orators. That the poor are Gods treaſury, and Chriſts hand that receives our almes. That we lend but to God upon uſury,
+<note place="margin">Quod Iudaeo dabis, Deo non dabis? Amici hodic diem perdidi. Hoc habeo quodcunque dedi. A<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s quaeſtuo<g ref="char:EOLhyphen"/>ſiſtima. Tertu.</note> which we will doe to a Jew. That <hi>Auguſtus</hi> thought that day loſt, wherein he had not done ſome good. That when <hi>Marke Anthony</hi> was downe the wind, he proteſted, that he had nothing now left him, but what afore he had given a way. That <hi>Chryſoſtome</hi> calls liberality, a kind of negotiation, a merchandize for our ſelves. And <hi>Tertullian</hi> ſtiles it, a moſt gainefull art. It is but ſowing of ſeed, which wee thinke not loſt, becauſe it is committed to the ground; we rather expect a rich crop, and returne.</p>
+            <p>But yet (for a farewell) ſtill eying the Text,
+<note place="margin">Non recipit Deus eleemo<g ref="char:EOLhyphen"/>ſynas de manu raptoris. Ber. in Cantie. Quos paviſtis dicitis, non quos necaſtis, quos operu<g ref="char:EOLhyphen"/>iſtis, non quos expoliaſtis. Ber. de remed. pecc. Pauperes non ut ferarum catuli ſangui<g ref="char:EOLhyphen"/>ne, &amp; caedibas nutriendi, Plin. Pau. ad Traian.</note> that ſpeaks of Righteouſneſſe, and judgement. Charity muſt flow out of juſtice. Be ſure you give your owne. You muſt not thinke to ſatisfie, for eating many men, by feeding one. To breake a mans limbes, and then ſend him to an Hoſpitall; to undoe many, and then to maintaine a few is but poore charity. <hi>Selimus</hi> the Turkiſh Empe<g ref="char:EOLhyphen"/>rour would not erect an Hoſpitall with that money which he tooke from the Perſian Merchants. God will not accept of almes out of an oppreſſors hand. Yee tell us (ſaith <hi>Bernard</hi>) how many you have fed, and cloa<g ref="char:EOLhyphen"/>thed, but not how many you have killd, and rob'd. The poor (ſaith
+<hi>Pliny</hi>) are not to be fed like the whelps of wild beaſts with blood, and ſlaughter.</p>
+            <p>God hath ſhewne thee, O man, what is good
+<pb n="46" facs="tcp:64206:27"/>(ſaith the Prophet) to do juſtice, and love mercy. Firſt to doe juſtice, then to love mercy. But juſtice firſt, and then as mercifull as you will.</p>
+            <p>Firſt repay, and then give.</p>
+            <p>Now the God of heaven make us a faithfull City and keepe us from corporall, and ſpirituall adultery. Continue us juſt, and righ<g ref="char:EOLhyphen"/>teous. Preſerve our ſilver without droſſe; and our wine unmixed, &amp;c.</p>
+            <closer>ΔΟΞΑ ΘΕΩ</closer>
+            <pb facs="tcp:64206:27"/>
+         </div>
+      </body>
+   </text>
+</TEI>
